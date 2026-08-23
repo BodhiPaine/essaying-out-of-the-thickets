@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bodhipaine.github.io/arms-raised
+  baseUrl: bodhipaine.github.io/essaying-out-of-the-thickets
   ignorePatterns:
     - private
     - templates
