@@ -1,4 +1,9 @@
-{
+{"allowScripts": {
+  "@parcel/watcher": true,
+  "esbuild": true,
+  "fsevents": true,
+  "sharp": true
+},
   "name": "@jackyzha0/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
