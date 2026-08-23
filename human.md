@@ -1,0 +1,1 @@
+The word 'human' derives from the word 'humus', which means *soil* or *earth* and has etymological connections with delightful values such as humility. Or so I believe - yet to be confirmed that this isn't just wishful thinking based on hearsay.

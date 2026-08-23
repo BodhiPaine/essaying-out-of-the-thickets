@@ -1,0 +1,1 @@
+... but more like as an introduction to Buddha himself ~ a guide to becoming a disciple of the Buddha, rather than remaining dependent on dhamma teachers, ordained or otherwise: because faith in Buddhism starts with *saddhā* in the Triple Gem
