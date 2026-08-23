@@ -1,0 +1,1 @@
+*where I might infrequently update books I am reading ~ or just a list of what I consider to be Required Reading for anyone interested in not suffering the human condition eternally*
