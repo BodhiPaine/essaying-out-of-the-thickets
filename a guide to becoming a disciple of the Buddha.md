@@ -1,0 +1,7 @@
+Me being your guide in this sense is like if we met one of my friends at the park one day: all I could do is introduce you, and then the conversation is up to you. And it *is* a conversation that we need to have with the Buddha (through the dhamma, with support from the sangha), in the sense we need to ask questions and seek elaboration on points we don't yet understand.
+
+We've all met someone who doesn't do this ~ they either talk about themselves the whole time, or they drift off like they're planning to be anywhere else. Don't be that person. 
+
+We may need to come back to the same teaching again and again before some understanding or insight drops into place and makes our [[epistemology|knowledge more embodied, more felt than known]], really, more a part of psychophysical makeup so that our actions flow naturally from this new #awareness instead of from our old #conditioning.
+
+So although I am explaining various concepts, I am providing the original source material as much as possible as well, either in citations or as longer [[Readings]], so the reader can go and check for themselves whether they agree with what I am saying about what I think Buddha was saying (see the [[Caveat]] about that). 
