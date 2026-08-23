@@ -19,7 +19,9 @@ If that 👆🏼 wasn't sufficiently uplifting, I am going to copy-paste a few J
 
 - 心を沈める (*Kokoro o shizumeru*) – "To calm one’s mind and heart."
 
-Worth noting that 心 is the leading character in each of these, and I would like to note later that the 'body' aspect of 心 points at something equally central in Buddhism, which is that liberation from suffering ~ that transcendent state of having permanently abandoned the illusion of self ~ is achieved primarily through #embodied-awareness: Buddhist meditation is not the dry, cognitively heavy, boring, and unpleasant practice that many people think it is, but something deeply grounded in the body, and in #joy.
+Worth noting that 心 is the leading character in each of these, and I would like to note later that the 'body' aspect of 心 points at something equally central in Buddhism, which is that liberation from suffering ~ that transcendent state of having permanently abandoned the illusion of self ~ is achieved primarily through #embodied-awareness: Buddhist meditation is not the dry, cognitively heavy, boring, and unpleasant activity that many people think it is, but something deeply grounded in the body, and in #joy.
+
+So on that note, a fun fact about Japanese language that I learnt through hearsay and have just had Claude confirm: 懐かしい (*natsukashii*) is an adjective that describes the warm, fuzzy, delighted feeling one gets upon reuniting with a long-lost friend or, apparently, a rarely smelt odour that brings on a wave of nostalgia that *feels good*, not yearny or clingy because: your friend is *back*, no longer separated from you who was pining. 
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 
