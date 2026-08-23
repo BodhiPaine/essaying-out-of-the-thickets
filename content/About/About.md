@@ -11,6 +11,15 @@ The concept of 心 has been embraced in the mystical arts of #neuroscience and #
 
 Time for a pivot toward something more uplifting than the Sixth Great Extinction, not to be confused with the Great Depression though of course there are metaphorical correlates: 心 was explored in the 1914 novel *Kokoro* by Natsume Sōseki ~ missed opportunity right there, not using the symbol for the title. I was dimly aware of this novel, but it has gone straight to the top of the [[Reading List]] after *Lacuna* because I have been really looking forward to reading that, hoping it is light-hearted evening reading that aligns enough with the dhamma to not be a transgression of the no-entertainment precept: despite appearances such as this heavy-lifting About page, I am not actually constantly being a massive drag-weight by thinking about philosophy all the time ~ I do have a need to 'Netflix and chill' sometimes, but I try to not hijack the ol' dopamine pumps too much anymore these days, so a bit of light poetic prose is really my jam.[^4]
 
+If that 👆🏼 wasn't sufficiently uplifting, I am going to copy-paste a few Japanese phrases using 心:
+
+- 心から感謝します (*Kokoro kara kansha shimasu*) – "I thank you from the bottom of my heart."
+
+- 心のある人 (*Kokoro no aru hito*) – "A person with a kind heart."
+
+- 心を沈める (*Kokoro o shizumeru*) – "To calm one’s mind and heart."
+
+Worth noting that 心 is the leading character in each of these, and I would like to note later that the 'body' aspect of 心 points at something equally central in Buddhism, which is that liberation from suffering ~ that transcendent state of having permanently abandoned the illusion of self ~ is achieved primarily through #embodied-awareness: Buddhist meditation is not the dry, cognitively heavy, boring, and unpleasant practice that many people think it is, but something deeply grounded in the body, and in #joy.
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 
