@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: bodhipaine.github.io/arms-raisedbase
   ignorePatterns:
     - private
     - templates
