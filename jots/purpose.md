@@ -1,0 +1,2 @@
+# sharing the gift of dhamma
+A good reason to write the book and otherwise include teaching among my practice later: _Sabbadanam dhammadanam jinati_; ‘the gift of the dhamma exceeds all other gifts’, meaning, as well, that someone in a position to shre the dhamma is especially fortunate.

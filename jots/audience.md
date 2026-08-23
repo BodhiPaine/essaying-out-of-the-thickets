@@ -1,0 +1,1 @@
+not sure … serious practitioners who already know something about Buddhism, or new monastics
