@@ -1,0 +1,1 @@
+The old-school model of accountability described by Thomas Carlyle, where the press were supposed to be keeping the state *and* the church accountable on behalf of the people, but yeah: that was before the state got into bed with the press and everyone forgot about the church because Nietschze %%correct spelling%% said God was dead %%correct?%%. 

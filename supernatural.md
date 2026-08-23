@@ -1,0 +1,1 @@
+I have written elsewhere about taking the super- out of supernaturall, and I'll try to hook that up here.
