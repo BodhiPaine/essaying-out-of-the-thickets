@@ -1,0 +1,3 @@
+Learning to read the suttas for oneself is an essential aspect of 1., becoming a disciple of the Buddha himself and 2., cultivating *saddhā* in him as a teacher, in what he taught, and in how it is practice ~ that is, faith in the Triple Gem. To that end, I am going to provide as many full-length suttas as possible, as well as other material that I have found useful in my exploration of the suttas ~ we may get into other areas of the dhamma later, such as the %%What is the actual name of vinaya suttas?%%
+
+A good place to start is with the anonymous article, 'Befriending the Suttas' %%which may be used as a framework for developing this Appendix chapter, and/or provided as a full Reading in the Appendix%%
