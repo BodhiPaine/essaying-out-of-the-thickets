@@ -1,0 +1,1 @@
+Something that has become increasingly clear to me in my *saddhā* research is that a major sticking point in the cultivation of Buddhist faith is the worldview we Westerners have inherited mostly unconsciously.

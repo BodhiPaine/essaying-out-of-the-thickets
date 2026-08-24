@@ -32,7 +32,9 @@ One kind of doubt is doubt in the Triple Gem. Another is doubt in one's own capa
 
 If one has doubt in the sense of the Hindrances, it means, quite specifically, doubt about the Triple Gem: did the Buddha really become enlightened and then go on as a peripatetic pedagogue 'asking others for their answers and making awkward observations about their replies' the way Socrates did, which is not to say Socrates was enlightened, but 🤷 who knows; do the teachings of the Buddha really contain instructions we can follow to experience enlightenment for ourselves; and is the community of Buddha's disciples still alive and applying themselves with #sincerity to the application of those teachings? 
 
-It does sound a bit like a stretch, when I type it all out. And for a long time, I wasn't sure. Caveat: I do happen to feel sure about this now; my faith in the Triple Gem. The main kind of doubt I experience is that second one: I sometimes feel unsure about whether I've got what it takes to understand and apply the teachings all the way to the final goal. 
+It does sound a bit like a stretch, when I type it all out. And for a long time, I wasn't sure. Caveat: I do happen to feel sure about this now; my faith in the Triple Gem is pretty solid. The main kind of doubt I experience is that second one: I sometimes feel unsure about whether I've got what it takes to understand and apply the teachings all the way to the final goal. I also have all sorts of epistemic self-doubt, but Buddha's teaching about the Unprofitable Questions helps with that.
+
+So that's where we're at with that, for now. %%give it a brush up, then push it imperfect%%
 
 # Sources of Doubt
 \[text] 
