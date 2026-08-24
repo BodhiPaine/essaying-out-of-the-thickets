@@ -41,6 +41,8 @@ So that's where we're at with that, for now. %%give it a brush up, then push it 
 ## Fear of Credulity
 ## Incompatible Worldview
 %%This is a big one, obviously.%%
+# Common Mythperceptions
+It is important to bust these because otherwise they can lay dormant as insidious sources of doubt ~ and because by clearing these we get closer to [[XX. What the Buddha Taught, and Didn't Teach]].
 
 [^1]: https://www.wordnik.com/words/doubt
 

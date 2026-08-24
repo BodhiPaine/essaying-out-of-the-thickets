@@ -1,1 +1,0 @@
-https://suttacentral.net/sn48.50/en/sujato
