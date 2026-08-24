@@ -1,1 +1,5 @@
 Epistemology is where we really 'go out on a limb' in philosophy, to consider how we know, or even *whether* we can know. It may be a branch of [[metaphysics]], but no matter how many times I research this it doesn't stick in my brain: an epistemological problem? or a problem of my personal [[pedagogy]]? 
+# Buddhist Epistemology
+\[text]
+# Cartesian epistemology
+\[text]
