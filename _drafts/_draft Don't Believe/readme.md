@@ -1,0 +1,1 @@
+- build an outline using folders and notes here, and use them for drafting ~ then, paste the text over to content/ when it's prose worthy, but leave this outlining intact for when I need to draft new content or redraft the whole chapter
