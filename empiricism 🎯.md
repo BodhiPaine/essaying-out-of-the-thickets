@@ -1,0 +1,1 @@
+*empirical* able to be experienced through the senses; often conflated with truth claims in forms like, 'there is empirical evidence for it', which there might be, but other equally empirical data might contradict that evidence. Used as a buzzword to make anything sound more convincing. #rhetoric
