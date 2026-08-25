@@ -4,7 +4,7 @@ We've all met someone who doesn't do this ~ they either talk about themselves th
 
 We may need to come back to the same teaching again and again before some understanding or insight drops into place and makes our [[epistemology|knowledge more embodied, more felt than known]], really, more a part of psychophysical makeup so that our actions flow naturally from this new #awareness instead of from our old #conditioning.
 
-So although I am explaining various concepts, I will endeavour to provide as much of the original source material as possible, either in citations or as longer [[Sutta Readings]], so the reader can go and check for themselves whether they agree with what I am saying about what I think Buddha was saying (see the [[Caveat]] about that). 
+So although I am explaining various concepts, I will endeavour to provide as much of the original source material as possible, either in citations or as longer [[Sutta Readings]], so the reader can go and check for themselves whether they agree with what I am saying about what I think Buddha was saying (see the [[_Caveat]] about that). 
 
 I don't want to teach you Buddhism; what I am doing here is more about articulating my own understanding, as a process of writing- and learning-in-public. If you happen to gain some understanding from that then honestly, that is secondary. My research into *saddhā* began in earnest around two things: learning about the canonical concept of the *dhammanusari* and *saddhanusari*; and learning about the Upanisa Sutta. Faith really is a central tenet of Buddhism, no matter what others tell you about being able to practice Buddhism *without belief*. How can we *practice anything*, without belief?
 

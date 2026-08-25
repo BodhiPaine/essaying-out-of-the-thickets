@@ -1,3 +1,4 @@
+%%frontmatter, so people know it's there to use%%
 ### aveccappasāda
 
 - faith founded in understanding; experiential confidence; epithet of stream entry
