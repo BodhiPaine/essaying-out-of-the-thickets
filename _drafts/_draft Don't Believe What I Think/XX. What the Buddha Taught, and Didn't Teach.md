@@ -22,7 +22,11 @@ Steps 1, 2 and 4 are straightforward enough, but I'm right there with you if you
 # Sense Restraint
 *indriya samvara*
 
-Buddha taught that we should restrain our senses, guard the sense gates ~ or doors, as a means of taming oneself. It could be said that everything he taught was about taming.      but also it is said that everything he taught is about dependent origination, about [[suffering and the end of suffering]] %%port the copy over from Jewel%%, and I can get behind it on the grounds of its logic but also from [[empiricism 🎯|experience]] 🏹, on empirical grounds. 
+Buddha taught that we should restrain our senses, guard the sense gates ~ or doors, as a means of taming oneself. It could be said that everything he taught was about taming.      but also it is said that everything he taught is about dependent origination, about [[suffering and the end of suffering]] %%port the copy over from Jewel%%, and I can get behind it on the grounds of its logic but also from [[empiricism 🎯|experience]] 🏹, on empirical grounds. I had an experience confirmed with a teacher recently by learning that the profound calm and joyful interest in the breath that results from solid #concentration in #meditation is essentially the definition of *niramisa sukha*, meaning 'pleasure from beyond the senses' or, spookily, 'otherworldy pleasure'. It is the one #pleasure Buddha said would not cause suffering ~ he actively encourages us to delight in it, as a wholesome pleasure that draws one away from unwholesome pleasure derived from the sense realm. So it's real, and deserves the prominence it gets in the teachings. 
+
+The result is one thing, but the skill of applying it was elusive for me ~ it and required a certain amount of conceptual scaffolding before I could take hold of it. More on that another time. It will do for now that *indriya samvara* sits on a par with #saddha as indispensable, and reasonably defensible: guarding the sense doors allows the mind to quieten and concentrate, even on something as boring as the breath; and as this quiet deepens, the #conditions arise for #insight.  
+
+#indriya-samvara 
 # Wise Attention
 yoniso manasikara ??
 # The Four Noble Truths
