@@ -1,1 +1,1 @@
-A whole massive branch to be explored on the subject of which thinkers in *the history of Western thought* came up with philosophies that seemed like a good idea, at the time. Spoiler: it wasn't John Farnham.  
+A whole massive branch to be explored on the subject of which thinkers in *the history of Western thought* came up with philosophies that seemed like a good idea, at the time. Spoiler: it wasn't John Farnham.  test #tag one level shallower

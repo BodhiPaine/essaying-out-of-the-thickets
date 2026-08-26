@@ -22,6 +22,14 @@ If that 👆🏼 wasn't sufficiently uplifting, I am going to copy-paste a few J
 Worth noting that 心 is the leading character in each of these, and I would like to note later that the 'body' aspect of 心 points at something equally central in Buddhism, which is that liberation from suffering ~ that transcendent state of having permanently abandoned the illusion of self ~ is achieved primarily through #embodied-awareness: Buddhist meditation is not the dry, cognitively heavy, boring, and unpleasant activity that many people think it is, but something deeply grounded in the body, and in #joy.
 
 So on that note, a fun fact about Japanese language that I learnt through hearsay and have just had Claude confirm: 懐かしい (*natsukashii*) is an adjective that describes the warm, fuzzy, delighted feeling one gets upon reuniting with a long-lost friend or, apparently, a rarely smelt odour that brings on a wave of nostalgia that *feels good*, not yearny or clingy because: your friend is *back*, no longer separated from you who was pining. 
+# About "Don't Believe What I Think"
+Essaying on having _saddhā_ in faith
+
+cosmology, mythology, faith, skepticism, and literalism ... 
+
+I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews and how they impact faith and effort. 
+
+I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding: one's worldview; and the Buddhist worldview because our beliefs about the world directly impact the amount and kind of effort we apply. 
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 
