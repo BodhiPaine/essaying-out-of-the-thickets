@@ -35,9 +35,17 @@ yoniso manasikara ??
 and also [[Dependent Liberation]] 
 # What the Buddha Didn't Teach
 ## Psychotherapy
-I has been helpful for me to learn that even becoming an arahant doesn't operate on the level of the #personality (Bodhi, p. 16), because meeting purported arahants whose behaviour was uninspiring to say the least, would sometimes leave me doubting the sangha *and* the dhamma: *If these are the results, I'm not interested.* 
+It has been helpful for me to learn that even becoming an arahant doesn't operate on the level of the #personality (Bodhi, p. 16), because meeting purported arahants whose behaviour was uninspiring to say the least, would sometimes leave me doubting the sangha *and* the dhamma: *If these are the results, I'm not interested.* 
 
 %%This is relevant to faith because%% That he didn't teach psychotherapy doesn't undermine/misrepresent the efficacy of the dhamma and just means it is worthwhile complementing one's dhamma practice with things like shadow work
 
 Although one may become more compassionate, gentle, etc. because of the training, it is the training that causes this not the awakening itself, and an arahant may not necessarily iron out all the habits we may see as character flaws, like gruffness or aloofness or low emotional intelligence/awareness. This doesn't mean the dhamma isn't working, just that the dhamma operates on a level other than the personality. 
 
+Arguing against the view that we can discount cosmological facets such like rebirth as "religious trappings of an ancient culture utterly inappropriate for the Dhamma of our technological age", Bhikkhu Bodhi writes in his short piece "[Dhamma Without Rebirth](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html)" that when we
+
+> downplay the doctrine of rebirth and explain the entire import of the Dhamma as the amelioration of mental suffering through enhanced self-awareness \[we] deprive the Dhamma of those wider perspectives from which it derives its full breadth and profundity. By doing so one seriously risks reducing it in the end to little more than a sophisticated ancient system of humanistic psychotherapy.
+
+#progress We cannot advance to the higher levels of training without well-developed *saddhā* in right view. "Our motivation acquires the requisite maturity by the cultivation of right view, the first factor of the Noble Eightfold Path, which as explained by the Buddha includes an understanding of the principles of kamma and rebirth as fundamental to the structure of our existence."[^1]
+
+
+[^1]: [Dhamma Without Rebirth](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html) 

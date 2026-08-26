@@ -25,15 +25,22 @@ So on that note, a fun fact about Japanese language that I learnt through hearsa
 # About "Don't Believe What I Think"
 Essaying on having _saddhā_ in faith
 
-cosmology, mythology, faith, skepticism, and literalism ... 
+I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews, about faith, skepticism, and literalism, and how they impact faith and effort. 
 
-I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews and how they impact faith and effort. 
+I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding how my inherited worldview interacts with the Buddhist worldview, because our beliefs about the world directly impact the amount and kind of effort we apply. Arguing against the view that we can discount cosmological facets such like rebirth as "religious trappings of an ancient culture utterly inappropriate for the Dhamma of our technological age", Bhikkhu Bodhi writes in his short piece "[Dhamma Without Rebirth](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html)" that when 
 
-I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding: one's worldview; and the Buddhist worldview because our beliefs about the world directly impact the amount and kind of effort we apply. There are whole [[living traditions]] that prioritise scholarship and memorising the scripture because their worldview is that we are too deep in the sasana to become arahants in this lifetime, so they make merit hoping this will cause fortunate rebirth, ideally at the time of Matreya. 
+> viewed in their totality, the Buddha's discourses show us that far from being a mere concession to the outlook prevalent in his time or an Asiatic cultural contrivance, the doctrine of #rebirth has tremendous implications for the entire course of Dhamma practice, affecting both the aim with which the practice is taken up and the motivation with which it is followed through to completion.
 
-Thān 🏹 [[talks about worldview]] %%link to block anchor in [[02. The Five Faculties]]%% in a similar context and I'll need to find that. Pure Land practitioners chant the name of Amitabha in the conviction they will be reborn in the realm of Amitabha, and in Sucitto's pilgrimage account they stay at a small Japanese temple where the whole practice is chanting and banging a drum. There must be numerous other examples.
+There are whole [[living traditions]] that prioritise scholarship and memorising the suttas because they believe we are too deep in the sasana to become arahants in this lifetime, so they make merit hoping this will cause fortunate rebirth, ideally at the time of Matreya. 
 
-So as much as I enjoy the word play of essaying, it's not a purely academic or literary exercise
+There are also whole living traditions that prioritise awakening over all else
+
+Thān 🏹 [[talks about worldview]] %%link to block anchor in [[04. The Five Faculties]]%% in a similar context and I'll need to find that. Pure Land practitioners chant the name of Amitabha in the conviction they will be reborn in the realm of Amitabha, and in Sucitto's pilgrimage account they stay at a small Japanese temple where the whole practice is chanting and banging a drum. There must be numerous other examples.
+
+So as much as I enjoy the word play of essaying, it's not a purely academic or literary exercise - I am inspired as much by his style as by his idea of 'double-vision', the ability or a williingness to see cosmology and even the world as both metaphorical and literal, and vice versa - the world as metaphor, I love that. And such a view is alluded to by Punnadhammo in \[their] Preface: "This \[cosmology] is the imaginative space in which all Buddhists lived until recently, \[...] even if it is no longer held literally in all details".  
+
+The Buddha used metaphor, myth, and cosmology "and each \[myth?] had its function" (Punnadhammo) to teach aspects of reality and the dhamma that students wouldn't have been able to understand if he had taught the truth directly or literally. The various literary styles of the sutta teachings have some powerful functions as well, and would be a whole area of not just interesting study but a source of inspiration for application of the dhamma. A cosmological facet may be taken up as an object for contemplation - a kamatana(?) - for the cultivation of insight, such as the multiplicity of world-systems to leaven my attachment to saving this one world at the expense of my own awakening.
+
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 

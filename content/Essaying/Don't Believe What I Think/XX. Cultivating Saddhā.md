@@ -5,10 +5,26 @@ Ways I find helpful in cultivating *saddhā* have, unsurprisingly, begun to come
 ## Buddhānusati
 *contemplation of the Buddha*
 
-From Buddha, My Refuge, 6.7 (pp. 83-84):
+%%needs intro text%%
+
+**From Buddha, My Refuge, 6.7 (pp. 83-84):**
 - *the Buddha was able to survey the audience* and discern whether anyone was ready for the full teaching - whether they would see the dhamma upon hearing it, or sometime later - in this case with Suppabuddha the leper
 - [ ] 👆🏼find sutta
 - this is called 'encompassing' someone's mind - the ability to see the mind's general state, but not specific thoughts or content - %%the Buddha wasn't exactly a mind reader%% as we think of one today?
+
+**abhidhamma**
+- he taught the Abhidhamma in the *deva* realm, and devas came to the human realm for teachings %%find sutta%%
+
+Buddha taught the five qualities of a wheel-turning monarch[^1], still relevant today for heads of government, who 'wields power only in a principled manner', and he taught the dhamma using the same five qualities: ([Sujato](https://suttacentral.now/an5.131/en/sujato)) He knows what is right, knows principle, knows moderation, knows the right time, and knows the assembly. ([[AN 5.131 'Wielding Power (1st)'|AN 5.131]]),
+
+Assembly, perhaps is about knowing which dhamma to teach when, and to whom.
+
+## Saddhānusati
+I has been helpful for me to learn that even becoming an arahant doesn't operate on the level of the #personality (Bodhi, p. 16), because meeting purported arahants whose behaviour was uninspiring to say the least, would sometimes leave me doubting the sangha *and* the dhamma: *If these are the results, I'm not interested.* 
+
+- [ ] relevant to knowing what the Buddha taught because if he didn't teach psychotherapy then it doesn't undermine/misrepresent the efficacy of the dhamma and just means it is worthwhile complementing one's dhamma practice with things like shadow work
+
+Although one may become more compassionate, gentle, etc. because of the training, it is the training that causes this not the awakening itself, and an arahant may not necessarily iron out all the habits we may see as character flaws, like gruffness or aloofness or low emotional intelligence/awareness. I also read somewhere that arahants' defilements are not aroused even by fine foods, which might explain %%Anan's%% silver service, although my view still thinks he should model better austerity/renunciation
 
 
 

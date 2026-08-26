@@ -1,0 +1,3 @@
+Bhikkhu Bodhi writes in his short piece "Dhamma Without Rebirth" that when 
+
+> viewed in their totality, the Buddha's discourses show us that far from being a mere concession to the outlook prevalent in his time or an Asiatic cultural contrivance, the doctrine of #rebirth has tremendous implications for the entire course of Dhamma practice, affecting both the aim with which the practice is taken up and the motivation with which it is followed through to completion.

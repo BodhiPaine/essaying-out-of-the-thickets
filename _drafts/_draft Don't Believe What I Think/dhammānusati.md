@@ -1,6 +1,10 @@
 *Contemplation of the dhamma*,
 a practice for [[XX. Cultivating Saddhā|cultivating saddhā]]
-
+# directly visible and personally verifiable
+ Bhikkhu Bodhi [writes](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html) that the dhamma is "directly visible and personally verifiable" because
+  
+ > by direct inspection of our own experience we can see that sorrow, tension, fear and grief always arise from our greed, aversion and ignorance, and thus can be eliminated with the removal of those defilements.
+ > 
 - the practice benefits many, not just the practitioner 
 - [ ] 👆🏼find sutta
 	- he gave many teachings to householders, who far outweigh monastics in the Buddhist demographic
