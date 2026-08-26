@@ -1,0 +1,1 @@
+The branch of philosophy investigating the nature of the mind and its interactions with the body and both external and internal #phenomena - the 'world outside' and the world of #thought and #emotion.
