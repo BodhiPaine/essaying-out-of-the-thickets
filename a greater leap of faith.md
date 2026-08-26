@@ -1,0 +1,1 @@
+That is to say, 'faith' in the sense of 'choosing to believe on grounds such as scientific authority, reasoned argument,' etcetera, these being the reasons for belief the Buddha denounced in the Kalama Sutta. Comparing the way we believe in [[scientism]] would be a fruitful exercise, I suspect. 
