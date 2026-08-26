@@ -29,7 +29,11 @@ cosmology, mythology, faith, skepticism, and literalism ...
 
 I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews and how they impact faith and effort. 
 
-I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding: one's worldview; and the Buddhist worldview because our beliefs about the world directly impact the amount and kind of effort we apply. There are whole [[living traditions]] that prioritise scholarship and memorising the scripture because their worldview is that we are too deep in the sasana to become arahants in this lifetime, so they make merit hoping this will cause fortunate rebirth, ideally at the time of Matreya.  
+I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding: one's worldview; and the Buddhist worldview because our beliefs about the world directly impact the amount and kind of effort we apply. There are whole [[living traditions]] that prioritise scholarship and memorising the scripture because their worldview is that we are too deep in the sasana to become arahants in this lifetime, so they make merit hoping this will cause fortunate rebirth, ideally at the time of Matreya. 
+
+Thān 🏹 [[talks about worldview]] %%link to block anchor in [[02. The Five Faculties]]%% in a similar context and I'll need to find that. Pure Land practitioners chant the name of Amitabha in the conviction they will be reborn in the realm of Amitabha, and in Sucitto's pilgrimage account they stay at a small Japanese temple where the whole practice is chanting and banging a drum. There must be numerous other examples.
+
+So as much as I enjoy the word play of essaying, it's not a purely academic or literary exercise
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 
