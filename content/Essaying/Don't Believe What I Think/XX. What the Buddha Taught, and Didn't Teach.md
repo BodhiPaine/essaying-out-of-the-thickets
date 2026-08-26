@@ -47,7 +47,7 @@ Arguing against the view that we can discount cosmological facets such like rebi
 
 #progress We cannot advance to the higher levels of training without well-developed *saddhā* in right view. "Our motivation acquires the requisite maturity by the cultivation of right view, the first factor of the Noble Eightfold Path, which as explained by the Buddha includes an understanding of the principles of kamma and rebirth as fundamental to the structure of our existence."[^1]
 
-Nonetheless, I consider there to be value in considering the psychological interpretation, as an entry point at least
+Nonetheless, I consider there to be value in considering the psychological interpretation, as an entry point at least #test 
 
 
 Bodhi 
