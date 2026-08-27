@@ -1,0 +1,3 @@
+My reward for completing the retreat has already paid off in terms of openness to and faith in the #dhamma: reading about modern #cosmology in Sheldrake (1981) has made it clear to me again that believing in modern science and cosmology requires [[a greater leap of faith]] than believing the empirical teachings of the Buddha. 
+
+Even if some of the cosmology may be spurious/specious - the teachings about the [[philosophy of mind|nature of mind]] and things like the [[XX. What the Buddha Taught, and Didn't Teach#The Three Marks|Three Marks]] (the [[ontology|nature of reality]]) are empirical in the sense we can see their truth for ourselves.

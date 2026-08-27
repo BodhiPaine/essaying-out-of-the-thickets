@@ -39,6 +39,8 @@ yoniso manasikara ??
 ## The Four Noble Truths
 ## Dependent Origination
 and also [[Dependent Liberation]] 
+# The Three Marks
+All conditioned phenomena are characterised by impermanence, unsatisfactoriness, and non-self.
 # What the Buddha Didn't Teach
 ## Psychotherapy
 It has been helpful for me to learn that even becoming an arahant doesn't operate on the level of the #personality (Bodhi, p. 16), because meeting purported arahants whose behaviour was uninspiring to say the least, would sometimes leave me doubting the sangha *and* the dhamma: *If these are the results, I'm not interested.* 
