@@ -23,7 +23,7 @@ Worth noting that 心 is the leading character in each of these, and I would lik
 
 So on that note, a fun fact about Japanese language that I learnt through hearsay and have just had Claude confirm: 懐かしい (*natsukashii*) is an adjective that describes the warm, fuzzy, delighted feeling one gets upon reuniting with a long-lost friend or, apparently, a rarely smelt odour that brings on a wave of nostalgia that *feels good*, not yearny or clingy because: your friend is *back*, no longer separated from you who was pining. 
 # About "Don't Believe What I Think"
-Essaying on having _saddhā_ in faith
+**Essaying on having _saddhā_ in faith**
 
 I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews, about faith, skepticism, and literalism, and how they impact faith and effort. 
 
