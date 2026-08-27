@@ -1,3 +1,9 @@
+cultivating faith, *saddhābhavana*
+
+Importantly, choosing to believe does not resolve doubt, and as Rahula says, ‘To force oneself to believe and to accept a thing without understanding is political, and not spiritual or intellectual.’ Also, one may not believe but choose to *accept on faith* until one does know (one way or the other), at which point it is not belief but knowledge, and beyond that is understanding/experience. I suppose _not believing but choosing to accept on faith_ is something like agnosticism, and in that position we can lean-in to [[Pascal’s Wager]] somewhat as well, to help with alleviating doubt.
+
+---
+
 Ways I find helpful in cultivating *saddhā* have, unsurprisingly, begun to come from avenues other than contemplating the Triple Gem, which, when I think about it now, feels a bit like cultivating faith in the Bible as the word of God by reading that claim in the Bible ~ it seems to be a circular argument. I understand that reading the dhamma is a natural way of cultivating faith in the Buddha as the one who realised and taught that dhamma, and this is indeed part of my #practice. It's just that another part of my practice of cultivating[^1] faith is reading contemporary dhamma-related authors and researching those areas of modern science that are beginning to converge with the insights of the Buddha. 
 
 [^1]: It may be worth noting briefly, perhaps as a placeholder, that typing 'cultivating' here has, for some reason, come along with an appreciation of how faith is something that grows. As with many aspects of dhamma practice, such as the arising of #insight, there isn't something we directly *do* that causes insight or the arising of faith in that moment ~ rather, we cultivate the mental, emotional, and intellectual conditions for such psychological phenomena to arise ... not by magic, but by an application of what I can only vaguely describe as 'indirect effort'. #indirect-effort 

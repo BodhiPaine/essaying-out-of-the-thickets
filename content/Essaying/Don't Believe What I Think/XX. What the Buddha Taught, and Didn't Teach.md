@@ -1,3 +1,9 @@
+The Buddha taught dhamma, which is a four-word clause that unpacks into a vast and sprawling doctrinal scripture and framework for directly experiencing those aspects of reality that eliminate suffering in the [[human conditon]]. Which seems like a lot, but the further one gets into the fray, the clearer things become - patterns emerge, and understanding begins to converge on those parts of the sprawl that are relevant in the application of the dhamma, which is different from the dhamma itself - the dhamma doesn't do the work for us, anymore than I can have [[your conversation at the park with my friend]]. 
+
+A turning point for me in cultvating saddha was when I started discovering that the Buddha variously taught about how to appraise both his teachings and the teachings of others - famously, in the Kalama Sutta. So we have *dhamma* and adhamma, that which is *not the dhamma*. An important distinction to make, obviously, but how? How do we get to the heart of what the Buddha taught, and how can we discern whether our contemporary understanding of the mind and reality are #dhamma-aligned. 
+# What is Dhamma, and aDhamma?
+We can make an approach on understanding the true dhamma (==saddhamma==) by starting with the Kalama Sutta. 
+
 # What the Buddha Taught
 %%find a place in the outline for this%%
 An important aspect of cultivating *saddhā*, hopefully obviously, is understanding what the Buddha taught, and didn't teach. As an exercise, I consider it worthwhile combing through the suttas and documenting them as part of considering whether I can feel confident about them. 
@@ -51,7 +57,7 @@ Nonetheless, I consider there to be value in considering the psychological inter
 
 
 Bodhi 
-that panoramic perspective
+that [[panoramic perspective]] 
 
 
 [^1]: [Dhamma Without Rebirth](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html) 

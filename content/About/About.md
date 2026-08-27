@@ -41,6 +41,37 @@ So as much as I enjoy the word play of essaying, it's not a purely academic or l
 
 The Buddha used metaphor, myth, and cosmology "and each \[myth?] had its function" (Punnadhammo) to teach aspects of reality and the dhamma that students wouldn't have been able to understand if he had taught the truth directly or literally. The various literary styles of the sutta teachings have some powerful functions as well, and would be a whole area of not just interesting study but a source of inspiration for application of the dhamma. A cosmological facet may be taken up as an object for contemplation - a kamatana(?) - for the cultivation of insight, such as the multiplicity of world-systems to leaven my attachment to saving this one world at the expense of my own awakening.
 
+---
+## An exercise in *saddhābhāvanā*
+#saddhābhāvanā #bhāvanā #epistemology 
+
+If that is a genuine Pali word, I can say this garden is an exercise in cultivating faith, in *saddhābhāvanā. I am building the essay for this garden because even though my *saddhā* is generally sufficiently robust, I understand it may wane at any time[^5], so having a resource such as this - and having gone through such a process to build it - will come in handy. I have probably said elsewhere that the state of my faith ... an #epistemic-state ... determines the extent, nature, and direction of my effort. Where this shows up for me is a crucial fulcrum that merits a lot of space to unpack: 
+
+> [!bleeding-heartedness]
+> If I am not confident that my own awakening will benefit others then I am more likely to feel pulled toward splitting my time between *bhāvanā* and social work. 
+
+If I believe that working on my own spiritual development over many lifetimes is possible, and that doing such will support the evolution of consciousness toward increasingly refined, noble, enlightened stages of humanity or whatever we become as we evolve then I may be less pulled toward social work and more confident my #agency resides primarily in developing an increasingly purified, refined mind and heart. Belief in a multiverse of ever-evolving consciousness is a choice that feels fictional because it is [[metaphysics|metaphysical]], but such a view might be supported by Sheldrake's morphic-resonance theory, and anyway ==Buddha taught that we devolved from light beings, and are evolving back into light beings==.\[cite]
+
+He also, however, taught that speculating about certain aspects of metaphysics was unproductive at best, and at worst liable to drive one mad. Which I can attest to on both counts. Trying to find the edges of such enquiry has been a necessary part of exploring saddha for me - What can I know? and What questions does the dhamma answer? have been burning questions for a while now. How much metaphysical knowledge do I need to practice?, and at which points do I get bogged down in irrelevant metaphysics just because I am fascinated by these questions. Like, what happens to consciousness after we die?, and after an arahant dies? 🤯 Who knows 🤷 One way to find out.[^6]%%link this to the complete-path material%%
+
+So he said that we are evolving into light beings, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
+
+> [!Can Buddhist save the world?]
+> If Buddhism doesn't answer certain metaphysical questions such as about the evolution of consciousness, then can I feel confident the practice will contribute to solving the 'problems' I wish to help with? 
+
+(Very interesting that I typo'd 'Buddhist' in there when I intended to write 'Buddhism'. It's a classic Freudian slip that I'm going to leave in-line because it makes flagrant that I have this unconscious Atlassian burden in the form of wanting to be a messiah to escape crushing fearlings of insignificance. Of something - more below about this.)
+
+Because of course we all know that 
+
+> our problems can't be solved with the sort of thinking that caused them,
+
+so how does Buddhism transform our thinking? By transcending dualist and rational thought through transpersonal experience? I hope so, and I believe so. 
+
+
+
+
+So I have needed to do some research because I understand Buddha taught in various places that the ultimate service we can perform is our own liberation, but I am not clear on where he taught this, and what I think of these teachings beyond my willingness to treat them with *saddhā*. 
+
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 
@@ -49,3 +80,7 @@ The Buddha used metaphor, myth, and cosmology "and each \[myth?] had its functio
 [^3]: Full-blown-speculation caveat here.
 
 [^4]: It has not escaped my attention that I have deployed a 112-word sentence to convey just how light-hearted and unserious I really am.
+
+[^5]: faith wavers in all practitioners until stream-entry, after which it becomes 'unshakeable'
+
+[^6]: *ekāyano maggo*, meaning "direct path; a path leading toward (only) one destination"

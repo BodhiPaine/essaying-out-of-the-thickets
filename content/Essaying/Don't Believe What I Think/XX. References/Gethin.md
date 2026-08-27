@@ -1,0 +1,1 @@
+"Cosmology" (p.183), but wouldn't the realms collapse along with the world contraction?
