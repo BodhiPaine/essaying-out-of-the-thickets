@@ -1,1 +1,1 @@
-when science-based theories become ideology dogmas, we have entered the realm of #scientism
+when science-based theories become ideological dogmas, we have entered the realm of #scientism
