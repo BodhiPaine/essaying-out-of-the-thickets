@@ -230,6 +230,8 @@ plugins:
         - description
         - tags
         - aliases
+        - epistemic-status
+        - growth
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
