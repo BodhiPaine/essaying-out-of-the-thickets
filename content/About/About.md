@@ -45,7 +45,7 @@ The Buddha used metaphor, myth, and cosmology "and each \[myth?] had its functio
 ## An exercise in *saddhābhāvanā*
 #saddhābhāvanā #bhāvanā #epistemology 
 
-If that is a genuine Pali word, I can say this garden is an exercise in cultivating faith, in *saddhābhāvanā. I am building the essay for this garden because even though my *saddhā* is generally sufficiently robust, I understand it may wane at any time[^5], so having a resource such as this - and having gone through such a process to build it - will come in handy. I have probably said elsewhere that the state of my faith ... an #epistemic-state ... determines the extent, nature, and direction of my effort. Where this shows up for me is a crucial fulcrum that merits a lot of space to unpack: 
+If that is a genuine Pali word, I can say this garden is an exercise in cultivating faith, in *saddhābhāvanā*. I am building the essay for this garden because even though my *saddhā* is generally sufficiently robust, I understand it may wane at any time[^5], so having a resource such as this - and having gone through such a process to build it - will come in handy. I have probably said elsewhere that the state of my faith ... an #epistemic-state ... determines the extent, nature, and direction of my effort. Where this shows up for me is a crucial fulcrum that merits a lot of space to unpack: 
 
 > [!bleeding-heartedness]
 > If I am not confident that my own awakening will benefit others then I am more likely to feel pulled toward splitting my time between *bhāvanā* and social work. 
