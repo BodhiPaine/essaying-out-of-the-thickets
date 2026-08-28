@@ -31,6 +31,25 @@ I has been helpful for me to learn that even becoming an arahant doesn't operate
 - [ ] relevant to knowing what the Buddha taught because if he didn't teach psychotherapy then it doesn't undermine/misrepresent the efficacy of the dhamma and just means it is worthwhile complementing one's dhamma practice with things like shadow work
 
 Although one may become more compassionate, gentle, etc. because of the training, it is the training that causes this not the awakening itself, and an arahant may not necessarily iron out all the habits we may see as character flaws, like gruffness or aloofness or low emotional intelligence/awareness. I also read somewhere that arahants' defilements are not aroused even by fine foods, which might explain %%Anan's%% silver service, although my view still thinks he should model better austerity/renunciation
+# Canonical Support for *Saddhā*
+## Heavenly Destiny
+🗂️ #unsupportive
+
+In Soma Thera’s essay, 'Faith In The Buddha’s Teaching', there are so many rich ideas in just the first four pages, and then more all the way through, starting with a guarantee the faithful will go to heaven:
+
+- one who has mere/'but' faith in and affection for the Buddha and his teachings, when they are correctly expounded, is destined for heaven (MI 142[^1]), ... 
+
+Leading with this does not give much support to [[#Canonical Support for *Saddhā*]] because our conduct is the only determinant of the future we might expect, and belief matters only to the extent it motivates [[wholesome conduct]] #wholesome #conduct. There is something questionable about saying one with mere faith is "as it were taken by the hand and placed in heaven", considering a belief exists in some Christians that merely inviting Jesus into one's heart ensures they have a place in heaven, freedom from sin, etc.
+
+He does say elsewhere in the essay that genuine faith - or faith based on genuine understanding - necessarily motivates wholesome conduct because one of those ideas is #kamma. Still though, **the heaven guarantee troubles me** because doesn't Buddha say elsewhere that we cannot know where kamma will lead, beyond good=good? *If someone does a lot of unwholesome stuff in their life and gains genuine faith right at the end of their life, are they still going to heaven?* And apart from the actions in this life: what if past-life (bad) kamma is yet to find the conditions for ripening? Couldn't even the faithful then still be reborn in hell? Or can it be assumed that if one has gained human rebirth then all their bad past-life kamma must have been burned?
+
+These (kinds of) questions honestly do need some kind of resolution for me and as such the [[#Heavenly Destiny]] teaching doesn't sit well with me in terms of reasoned conviction. 
+## *Saddhā* and *Pema*
+*Supporting faith with affection for the Buddha*
+
+*Saddhā* is often paired with *pema* (affection), which is generally more accessible for 'native' Buddhists but can be cultivated. There is so far no mention of a *pemanussari* so I guess this kind of affection is not a requirement for becoming a pre-noble one, and *pema* is not listed among [[04. The Five Faculties]]. But like *mettā*, it sounds like a good feeling to have. 
+
+I do feel a kind of brotherlyness for the Buddha - for the mind-held image of the person I imagine he was, and for *kalyana-mitta* or respected teachers %%like A. Ariya (who has explicitly identified with the sangha here as kalyana-mitta)%%. Through connection with living dhamma brothers I get a sense of what it might be like to feel affection for Gotama, and when the time is right I will get around to reading again about Gotama's life, perhaps starting with *[[The Broken Gong]]*. Perhaps I could re-visit *Siddhartha*.
 
 
 

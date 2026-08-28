@@ -6,4 +6,5 @@ Translated as the [Saddhā Sutta](https://www.dhammatalks.org/suttas/SN/SN48_50.
 | Translations                                         | Title(s) | Summary                                                                                                                                                                          |
 | ---------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Sujato](https://suttacentral.net/sn48.50/en/sujato) | At Āpaṇa | The Buddha asks Sāriputta whether a noble disciple doubts the Buddha. Not only does he have faith, replies Sāriputta, but the other faculties each come to be developed in turn. |
-
+# AN 10.95, Uttiyasutta ‘With Uttiya’
+[[AN 10.95, Uttiyasutta ‘With Uttiya’]] 
