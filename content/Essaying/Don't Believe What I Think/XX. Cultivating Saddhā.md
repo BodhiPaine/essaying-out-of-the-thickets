@@ -50,6 +50,10 @@ These (kinds of) questions honestly do need some kind of resolution for me and a
 *Saddhā* is often paired with *pema* (affection), which is generally more accessible for 'native' Buddhists but can be cultivated. There is so far no mention of a *pemanussari* so I guess this kind of affection is not a requirement for becoming a pre-noble one, and *pema* is not listed among [[04. The Five Faculties]]. But like *mettā*, it sounds like a good feeling to have. 
 
 I do feel a kind of brotherlyness for the Buddha - for the mind-held image of the person I imagine he was, and for *kalyana-mitta* or respected teachers %%like A. Ariya (who has explicitly identified with the sangha here as kalyana-mitta)%%. Through connection with living dhamma brothers I get a sense of what it might be like to feel affection for Gotama, and when the time is right I will get around to reading again about Gotama's life, perhaps starting with *[[The Broken Gong]]*. Perhaps I could re-visit *Siddhartha*.
+# Surfacing Doubt
+Researching all this, I came to wonder if my inquiry into faith was getting excessive, but I am aware there may be considerable doubt lurking beneath the surface in my #unconscious, quietly sabotaging my faith: if I can surface these doubts by scouring the literature (the suttas and any commentaries) then I can do some reasoned consideration and have ideas to call up when doubt manifests, and this way I am gradually #reprogramming the mind - #reconditioning.
+
+%%It also creates balance between *dhamma*- and *saddhanusari*, but I think I may have enough of the qualities of these to move on to studying the conditions for stream-entry and/or *samādhi*, although the Faculties of *sati*, and *viriya* could be studied and developed further as well. That said, because my faith is quite strengthened from this research already, the other four Faculties will naturally come. *That* said, I do wonder sometimes whether I might be inspired to apply even more effort if I had *really* strong faith. A. Aggacitta's Open Mindfulness practice does develop *sati* and *samādhi*. %% 
 
 
 
