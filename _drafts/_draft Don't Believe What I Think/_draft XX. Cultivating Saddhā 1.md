@@ -2,19 +2,13 @@
 # Contemplation of the Triple Gem
 A classic formula for cultivating *saddhā* #saddhā is recollecting the qualities of the Triple Gem: buddhanusati, dhammanusati, and sanghanusati. 
 
-There are numerous other *satīs*, recollection of various qualities and values for meditation and #contemplation.
+There are numerous other *satīs* for cultivating *saddhā*, recollection of various qualities and values for meditation and #contemplation, such as recollection of virtuous ethics, *sīlanussati*.
 
 - [x] ask [[Norbu_Core texts for recollection of the Triple Gem|Norbu]]  for some sutta readings about recollecting the Triple Gem
 	- [ ] start reading and collecting them
 
-## the Buddha
-## the Dhamma
-
-# the Sangha
-
 # (81)
 In 3.6 we have Buddha teaching the idea that acknowledging one's transgression is considered progress in the 'noble discipline'. 
-
 # (82), anuttaro purisadamma-sarathi
 *anuttaro purisadamma-sarathi*, 'tamer of those who wish to be trained'
 

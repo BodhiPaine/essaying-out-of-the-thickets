@@ -1,5 +1,0 @@
-I has been helpful for me to learn that even becoming an arahant doesn't operate on the level of the #personality (Bodhi, p. 16), because meeting purported arahants whose behaviour was uninspiring to say the least, would sometimes leave me doubting the sangha *and* the dhamma: *If these are the results, I'm not interested.* 
-
-- [ ] relevant to knowing what the Buddha taught because if he didn't teach psychotherapy then it doesn't undermine/misrepresent the efficacy of the dhamma and just means it is worthwhile complementing one's dhamma practice with things like shadow work
-
-Although one may become more compassionate, gentle, etc. because of the training, it is the training that causes this not the awakening itself, and an arahant may not necessarily iron out all the habits we may see as character flaws, like gruffness or aloofness or low emotional intelligence/awareness. I also read somewhere that arahants' defilements are not aroused even by fine foods, which might explain %%Anan's%% silver service, although my view still thinks he should model better austerity/renunciation
