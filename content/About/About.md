@@ -61,6 +61,11 @@ So he said that we are evolving into light beings, but advised us to not enquire
 
 (Very interesting that I typo'd 'Buddhist' in there when I intended to write 'Buddhism'. It's a classic Freudian slip that I'm going to leave in-line because it makes flagrant that I have this unconscious Atlassian burden in the form of wanting to be a messiah to escape crushing fearlings of insignificance. Of something - more below about this.)
 
+
+
+
+
+
 Because of course we all know that 
 
 > our problems can't be solved with the sort of thinking that caused them,
