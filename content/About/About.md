@@ -61,7 +61,16 @@ So he said that we are evolving into light beings, but advised us to not enquire
 
 (Very interesting that I typo'd 'Buddhist' in there when I intended to write 'Buddhism'. It's a classic Freudian slip that I'm going to leave in-line because it makes flagrant that I have this unconscious Atlassian burden in the form of wanting to be a messiah to escape crushing fearlings of insignificance. Of something - more below about this.)
 
+%%I say 'problems' because it may be cultural/conditioned perception (sanna)that there is anything 'wrong' with reality - it may be that accepting reality as it is is the global solution to the desire that causes suffering, and that treating suffering individually necessarily leads to a society where there is no suffering. It really does become a philosophical quagmire though, and even writing a whole treatise probably wouldn't satisfy me because there is always something else to say one way or the other, resulting in perrenial doubt... 
 
+Could it be enough that my curiosity about the potential of the human mind is reason enough to pursue this lifestyle? The desire to serve something greater than myself: is this a sign of having self-actualised; or a manifestation of codependecy? IF it is codependency THEN this supports my move to prioritise self-awakening because codependency never served anyone. IF it is self-actualisation, only good can come from serving the transcendent.%%
+
+- [ ] see notes around [12] of Thai notebook, 
+%%because if I want certain answers that Buddhism doesn't address then I need to either abandon those questions or complement my practice with other modalities of esoteric inquiry/investigation such as shadow work%%
+
+On 'saving the world', there is a curious sutta where Ānanda uses the simile of the citadel to illustrate why the Buddha was silent when Uttiya(?) asked whether the dhamma saves the 'whole world, or half, or a third'. 
+- [ ] re-read the simile
+Ananda explains that we don't need to *save the world*, but to *save ourselves from the world*. 
 
 
 
