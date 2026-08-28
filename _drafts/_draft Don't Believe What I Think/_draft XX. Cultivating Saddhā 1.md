@@ -1,4 +1,4 @@
-- [ ] practice using a transclusion here from [[XX. Cultivating Saddhā]], so I know the existing content that has already been ported from draft - to give the following context, hierarchy
+- [ ] practice using a transclusion here from [[06. Cultivating Saddhā]], so I know the existing content that has already been ported from draft - to give the following context, hierarchy
 # Contemplation of the Triple Gem
 A classic formula for cultivating *saddhā* #saddhā is recollecting the qualities of the Triple Gem: buddhanusati, dhammanusati, and sanghanusati. 
 

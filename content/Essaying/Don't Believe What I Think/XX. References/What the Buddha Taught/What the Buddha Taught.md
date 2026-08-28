@@ -1,2 +1,2 @@
-- Truth is not the preserve of the Buddha (8): ‘If the medicine is good, the disease will be cured. It is not necessary to know who prepared it, or where it came from.’ Any teaching that is [[XX. What the Buddha Taught, and Didn't Teach#What is Dhamma, and aDhamma?|dhamma-aligned]] is good medicine, whether it came from the Buddha, or not.
+- Truth is not the preserve of the Buddha (8): ‘If the medicine is good, the disease will be cured. It is not necessary to know who prepared it, or where it came from.’ Any teaching that is [[07. What the Buddha Taught, and Didn't Teach#What is Dhamma, and aDhamma?|dhamma-aligned]] is good medicine, whether it came from the Buddha, or not.
 - Rahula goes to great lengths to make it clear that the Buddha never encouraged blind faith.

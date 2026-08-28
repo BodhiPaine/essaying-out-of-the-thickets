@@ -1,5 +1,5 @@
 *Contemplation of the dhamma*,
-a practice for [[XX. Cultivating Saddhā|cultivating saddhā]]
+a practice for [[06. Cultivating Saddhā|cultivating saddhā]]
 # directly visible and personally verifiable
  Bhikkhu Bodhi [writes](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html) that the dhamma is "directly visible and personally verifiable" because
   
