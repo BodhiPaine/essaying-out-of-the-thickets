@@ -1,1 +1,0 @@
-Digital gardening is a form of non-linear hypertext narrative that I have been wanting to find for ~15 years, popularised by %%\[Maggie Appleton?]%%. There is a primary narrative thread here in [[Don't Believe What I Think]], and then sprawling sub-branches I have started calling Driftwood and might stash behind the shed later.
