@@ -1,0 +1,1 @@
+This corner of the internet is an experiment in long-form digital gardening, recently seeded with some [[About#About "Don't Believe What I Think"|essaying about faith in Buddhism]] and potentially a site for transplanting some essayed subjects.
