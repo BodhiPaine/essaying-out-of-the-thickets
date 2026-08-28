@@ -1,4 +1,4 @@
-We're going to need a map. To have faith in the Triple Gem, we need to know who the Buddha was, what he taught, and how to practice in pursuit of the spiritual development he described, from full-blown ignorant worldling through the four stages of awakening to fully awakened arahant. 
+That is the ultimate destination, and to get there we're going to need a map. To have faith in the Triple Gem, we need to know who the Buddha was, what he taught, and how to practice in pursuit of the spiritual development he described, from full-blown ignorant worldling through the four stages of awakening to fully awakened arahant. 
 
 The Buddha marked out series of meaningful benchmarks along the way to these exalted states as well, and learning to home in on the early stages has helped me to access a few small fruits from applying the method the Buddha described, which begets confidence. 
 
@@ -6,4 +6,4 @@ Once a practitioner has faith arising from direct experience of the fruits of pr
 
 Reading about such quantified statements from the Buddha makes me a bit suss because elsewhere he talks about the [[the Ten Unprofitable Questions|maddening futility]] of trying to understand the internal mechanisms of kamma. But I remain inspired by the well-described and -trodden paths out of ignorance, especially after confirming recently I had progressed to higher stages of meditation without knowing the canonical term for the experience. These preliminary benchmarks on the progress bar of meditation practice are the early indicators one's practice is developing in the right way. 
 
-On this page, I would like to elaborate on the Path and stages as I understand them, from access concentration through sotapanna to the arahant, piece by piece in the fashion of a [[digital garden]]. 
+In this section, I would like to elaborate on the Path and stages as I understand them, from access concentration through sotapanna to the arahant, piece by piece in the fashion of a [[About#About Digital Gardening|digital garden]]. 

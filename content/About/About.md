@@ -85,7 +85,8 @@ so how does Buddhism transform our thinking? By transcending dualist and rationa
 
 
 So I have needed to do some research because I understand Buddha taught in various places that the ultimate service we can perform is our own liberation, but I am not clear on where he taught this, and what I think of these teachings beyond my willingness to treat them with *saddhā*. 
-
+# About Digital Gardening
+Digital gardening is a form of non-linear hypertext narrative that I have been wanting to find for ~15 years, popularised by %%\[Maggie Appleton?]%%. There is a primary narrative thread here in [[Don't Believe What I Think]], and then sprawling sub-branches I have started calling Driftwood and might stash behind the shed later.
 
 [^1]: See how it resembles a tiny human with bowed head? We will check in with the [[etymology of 'human']] another time, and its inherent connection with #humility, but for now: must press on ... I spent a lot of time getting this website live the last few days, and now it's time to play.
 
