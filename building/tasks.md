@@ -16,3 +16,9 @@ _investing in mental development, rather than in accumulating wealth, means the 
 - [ ] work out how to order notes manually - Claude recommended not using a plugin, and has a way of doing this some other way
 # browser tab
 - [ ] change the icon that comes up in my Thickets tabs, currently the Quartz icon
+
+# content
+fill in
+- [ ] MN 18
+- [ ] MN 19
+[[07. What the Buddha Taught, and Didn't Teach#The Thought Trilogy|the Thought Trilogy]]
