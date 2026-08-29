@@ -4,11 +4,12 @@ _investing in mental development, rather than in accumulating wealth, means the 
 - [ ]  centre this on [[00. Introduction]] ~ instructions in Claude, ‘Obsidian shortcut keys’
 
 # epistemic statuses
-- [ ] ask Claude to help me develop frontmatter with categories like 
-- epistemic status
-- draft state
-- last updated
-	- Can be pulled from GitHub version history?
+- [x] ask Claude to help me develop frontmatter with categories like 
+~~- epistemic status
+- ~~draft state
+- ~~last updated
+	- ~~Can be pulled from GitHub version history?~~
+- [ ] fix duplicate boxes
 # driftwood
 - [ ] figure out how to publish notes that branch off the main narrative, but do not show up in the left-hand sidebar: these are the narrative sprawl that readers can get lost on, but which doesn't show up on the map
 # manually order folders and notes
