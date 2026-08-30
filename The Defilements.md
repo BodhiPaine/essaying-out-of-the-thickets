@@ -1,0 +1,1 @@
+greed, aversion, and delusion

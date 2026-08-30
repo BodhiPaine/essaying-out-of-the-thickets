@@ -1,0 +1,5 @@
+- sensual desire
+- ill will
+- sloth & torpor
+- restlessness & worry
+- doubt
