@@ -25,17 +25,15 @@ So on that note, a fun fact about Japanese language that I learnt through hearsa
 # About "Don't Believe What I Think"
 **Essaying on having _saddhā_ in faith**
 
-I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews, about faith, skepticism, and literalism, and how they impact faith and effort. 
+I want to write something long and beautiful and winding and thoughtful about cosmology and worldviews, about belief, skepticism, awakening, and literalism, and how they impact faith and effort. I feel inspired by the looping, exploratory style of Patrick Harpur in his book *The Philosopher's Secret Fire*, for one thing - and the whole vibe of long, sprawling narrative essays is just definitely my jam.
 
-I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding how my inherited worldview interacts with the Buddhist worldview, because our beliefs about the world directly impact the amount and kind of effort we apply. Arguing against the view that we can discount cosmological facets such like rebirth as "religious trappings of an ancient culture utterly inappropriate for the Dhamma of our technological age", Bhikkhu Bodhi writes in his short piece "[Dhamma Without Rebirth](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html)" that when 
+I know there is attachment at play here - I want to enjoy words like [[epistemology]] and explore ideas like 'How can we know?' - but there is also something very #grounded about understanding [[05. Tripping Over Worldviews|how my inherited worldview interacts with the Buddhist worldview]], because our beliefs about the world directly impact the amount and kind of effort we apply. Arguing against the view that we can discount cosmological facets such like rebirth as "religious trappings of an ancient culture utterly inappropriate for the Dhamma of our technological age", Bhikkhu Bodhi writes in his short piece "[Dhamma Without Rebirth](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_06.html)" that when 
 
 > viewed in their totality, the Buddha's discourses show us that far from being a mere concession to the outlook prevalent in his time or an Asiatic cultural contrivance, the doctrine of #rebirth has tremendous implications for the entire course of Dhamma practice, affecting both the aim with which the practice is taken up and the motivation with which it is followed through to completion.
 
-There are whole [[living traditions]] that prioritise scholarship and memorising the suttas because they believe we are too deep in the sasana to become arahants in this lifetime, so they make merit hoping this will cause fortunate rebirth, ideally at the time of Matreya. 
+The possibility of awakening also needs to be considered, and Thān 🏹 [[04. The Five Faculties|talks about worldview]] in a this context, where there are whole living traditions that prioritise scholarship and memorising the suttas because they believe we are too deep in the sasana to become arahants in this lifetime, so they make merit hoping this will cause fortunate rebirth, ideally at the time of Matreya. Pure Land practitioners chant the name of Amitabha in the conviction they will be reborn in the realm of Amitabha, and in Sucitto's pilgrimage account they stay at a small Japanese temple where the whole practice is chanting and banging a drum. There must be numerous other examples.
 
-There are also whole living traditions that prioritise awakening over all else
-
-Thān 🏹 [[talks about worldview]] %%link to block anchor in [[04. The Five Faculties]]%% in a similar context and I'll need to find that. Pure Land practitioners chant the name of Amitabha in the conviction they will be reborn in the realm of Amitabha, and in Sucitto's pilgrimage account they stay at a small Japanese temple where the whole practice is chanting and banging a drum. There must be numerous other examples.
+There are also whole living traditions that prioritise awakening over all else, including the Early Buddhist Theravadan tradition I am planning to ordain in. 
 
 So as much as I enjoy the word play of essaying, it's not a purely academic or literary exercise - I am inspired as much by his style as by his idea of 'double-vision', the ability or a williingness to see cosmology and even the world as both metaphorical and literal, and vice versa - the world as metaphor, I love that. And such a view is alluded to by Punnadhammo in \[their] Preface: "This \[cosmology] is the imaginative space in which all Buddhists lived until recently, \[...] even if it is no longer held literally in all details".  
 
@@ -50,26 +48,28 @@ If that is a genuine Pali word, I can say this garden is an exercise in cultivat
 > [!bleeding-heartedness]
 > If I am not confident that my own awakening will benefit others then I am more likely to feel pulled toward splitting my time between *bhāvanā* and social work. 
 
-If I believe that working on my own spiritual development over many lifetimes is possible, and that doing such will support the evolution of consciousness toward increasingly refined, noble, enlightened stages of humanity or whatever we become as we evolve then I may be less pulled toward social work and more confident my #agency resides primarily in developing an increasingly purified, refined mind and heart. Belief in a multiverse of ever-evolving consciousness is a choice that feels fictional because it is [[metaphysics|metaphysical]], but such a view might be supported by Sheldrake's morphic-resonance theory, and anyway ==Buddha taught that we devolved from light beings, and are evolving back into light beings==.\[cite]
+If I believe that working on my own spiritual development over many lifetimes is possible, and that doing such will support the evolution of consciousness toward increasingly refined, noble, enlightened stages of humanity or whatever we become as we evolve then I may be less pulled toward social work and more confident my #agency resides primarily in developing an increasingly purified, refined mind and heart. Belief in a multiverse of ever-evolving consciousness is a choice that feels fictional because it is [[metaphysics|metaphysical]], but such a view might be supported by Sheldrake's morphic-resonance theory, and anyway Buddha taught that we devolved from light beings ([[DN 27 Aggaññasutta, 'What Came First|DN 27]]), ==and are evolving back into light beings==.\[cite]
 
 He also, however, taught that speculating about certain aspects of metaphysics was unproductive at best, and at worst liable to drive one mad. Which I can attest to on both counts. Trying to find the edges of such enquiry has been a necessary part of exploring saddha for me - What can I know? and What questions does the dhamma answer? have been burning questions for a while now. How much metaphysical knowledge do I need to practice?, and at which points do I get bogged down in irrelevant metaphysics just because I am fascinated by these questions. Like, what happens to consciousness after we die?, and after an arahant dies? 🤯 Who knows 🤷 One way to find out.[^6]%%link this to the complete-path material%%
 
-So he said that we are evolving into light beings, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
+==So he said that we are evolving into light beings==, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
 
 > [!Can Buddhist save the world?]
 > If Buddhism doesn't answer certain metaphysical questions such as about the evolution of consciousness, then can I feel confident the practice will contribute to solving the 'problems' I wish to help with? 
 
 (Very interesting that I typo'd 'Buddhist' in there when I intended to write 'Buddhism'. It's a classic Freudian slip that I'm going to leave in-line because it makes flagrant that I have this unconscious Atlassian burden in the form of wanting to be a messiah to escape crushing fearlings of insignificance. Of something - more below about this.)
 
-%%I say 'problems' because it may be cultural/conditioned perception (sanna)that there is anything 'wrong' with reality - it may be that accepting reality as it is is the global solution to the desire that causes suffering, and that treating suffering individually necessarily leads to a society where there is no suffering. It really does become a philosophical quagmire though, and even writing a whole treatise probably wouldn't satisfy me because there is always something else to say one way or the other, resulting in perrenial doubt... 
+I say 'problems' because it may be cultural/conditioned perception (sanna) that there is anything 'wrong' with reality - it may be that accepting reality as it is is the global solution to the desire that causes suffering, and that treating suffering individually necessarily leads to a society where there is no suffering. It really does become a philosophical quagmire though, and even writing a whole treatise probably wouldn't satisfy me because there is always something else to say one way or the other, resulting in perennial doubt... 
 
-Could it be enough that my curiosity about the potential of the human mind is reason enough to pursue this lifestyle? The desire to serve something greater than myself: is this a sign of having self-actualised; or a manifestation of codependecy? IF it is codependency THEN this supports my move to prioritise self-awakening because codependency never served anyone. IF it is self-actualisation, only good can come from serving the transcendent.%%
+Could it be that my curiosity about the potential of the human mind is reason enough to pursue this lifestyle? 
 
-- [ ] see notes around [12] of Thai notebook, 
+And the desire to serve something greater than myself: is this a sign of having self-actualised; or a manifestation of codependecy? IF it is codependency THEN this supports my move to prioritise self-awakening because codependency never served anyone. IF it is self-actualisation, only good can come from serving the transcendent.
+
+- [ ] ==see notes== around [12] of Thai notebook, 
 %%because if I want certain answers that Buddhism doesn't address then I need to either abandon those questions or complement my practice with other modalities of esoteric inquiry/investigation such as shadow work%%
 
 On 'saving the world', there is a curious sutta where Ānanda uses the simile of the citadel to illustrate why the Buddha was silent when Uttiya(?) asked whether the dhamma saves the 'whole world, or half, or a third'. 
-- [ ] re-read the simile
+- [ ] ==re-read the simile==
 Ananda explains that we don't need to *save the world*, but to *save ourselves from the world*. 
 
 

@@ -1,0 +1,1 @@
+Rupert Sheldrake cites personal communication with Terrence McKenna describing the Big Bang theory as the one-free-miracle model of the cosmos.

@@ -1,0 +1,1 @@
+the idea that just being a sincere practitioner impacts the conduct of others, by modelling a way of being that supports #contentment with what is, in contrast to striving to make reality other than it is - pleasure- and status-seeking, etcetera. 
