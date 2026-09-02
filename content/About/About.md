@@ -70,7 +70,7 @@ Could it be that my curiosity about [[the potential of the human mind]] is reaso
 
 And the desire to serve something greater than myself: is this a sign of having [[self-actualised]]; or a manifestation of codependecy? IF it is codependency THEN this supports my move to prioritise self-awakening because codependency never served anyone. IF it is self-actualisation, only good can come from serving the transcendent.
 
-On 'saving the world', there is a curious sutta where Ānanda uses the simile of the citadel to illustrate why the Buddha was silent when Uttiya(?) asked whether the dhamma saves the 'whole world, or half, or a third'. 
+On 'saving the world', there is a curious sutta ([[AN 10.95, Uttiyasutta ‘With Uttiya’|AN 10.95]]) where Ānanda uses the simile of the citadel to illustrate why the Buddha was silent when Uttiya asked whether the dhamma saves the 'whole world, or half, or a third'. 
 - [ ] ==re-read the simile==
 Ananda explains that we don't need to *save the world*, but to *save ourselves from the world*. 
 
