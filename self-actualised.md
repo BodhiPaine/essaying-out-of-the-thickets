@@ -1,0 +1,1 @@
+as in Maslow's hierarchy of needs, but more on that later - [Scott Barry Kaufman has uncovered journals](https://scottbarrykaufman.com/transcend/) from just before Maslow's death, reporting that self-actualisation wasn't actually the peak of potential in Maslow's worldview, but self-transcendence. 
