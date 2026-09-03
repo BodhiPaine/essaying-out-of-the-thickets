@@ -117,7 +117,7 @@ Reading this sutta through again, I see I might have missed an important aspect 
 # A Buddha Arises
 The sutta then awkwardly segues into four types of people, the first three being variously unskilful, and the fourth being the Tathagata, whose teachings give rise to #faith in the world. So begins an iteration of the [[gradual training]], which I tend to forget is included in this sutta.
 
-After passing through the first four jhanas, one directs their attention at experience of the [[Three Knowledges, ending with the Four Noble Truths and the complete cessation of the defilements.   
+After passing through the first four jhanas, one directs their attention at experience of the [[06. Cultivating Saddhā#the Three Knowledges|Three Knowledges]], ending with the Four Noble Truths and the complete cessation of the defilements.   
 
 [^1]: two translations that each reveal a different perspective on the same phenomena - in Bodhi's footnote, he says the four immaterial realms are 'the objective counterparts of the four immaterial meditative attainments', or jhana.
 
