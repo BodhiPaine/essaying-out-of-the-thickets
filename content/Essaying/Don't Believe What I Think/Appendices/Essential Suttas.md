@@ -11,5 +11,8 @@ Translated as the [Saddhā Sutta](https://www.dhammatalks.org/suttas/SN/SN48_50.
 # on Saving the World
 ## AN 10.95, Uttiyasutta ‘With Uttiya’
 [[AN 10.95, Uttiyasutta ‘With Uttiya’]] 
-## 'Wise Attention, 'Yoniso Manasikara'
+# 'Wise Attention, 'Yoniso Manasikara'
 [[07. What the Buddha Taught, and Didn't Teach#Wise Attention, *yoniso manasikara*|on wise attention]]
+# Pascal's Wager
+## MN 60 Apaṇṇaka Sutta, 'A Safe Bet'
+In [[MN 60 Apaṇṇaka Sutta, 'A Safe Bet'|MN 60]], the Buddha claims, very explicitly, "Since there actually is another world, one who holds the view ‘there is no other world’ has wrong view." In lieu of having our own direct experience of this metaphysical truth claim, it is advised in MN 60 that a wise or skilful person would *assume* it to be true, just in case - if it isn't true and there is actually no other world, then at least one's #wholesome motivation yields the fruit of happiness and welfare in this lifetime. Such an argument seems to be essentially consistent with [[Pascal’s Wager]]. I find these grounds to be sufficient for choosing to believe in rebirth, so this aspect, at least, of skilful view, gets a green stamp for epistemic status. 
