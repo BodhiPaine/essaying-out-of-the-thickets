@@ -11,8 +11,8 @@ tags:
   - SkilfulView
   - "#gradual-training"
 link: https://study.jhana.info/suttas/mn60
-date: 2026-09-03
 ---
+Why hasn't the title updated?
 
 | summary                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
