@@ -1,6 +1,7 @@
 ---
 title: MN 60
 epistemic-status: "✅ Sound: I accept that rebirth, kamma, and causality are real; believing otherwise undermines the motivation for wholesome conduct."
+growth: 🌱 seedling
 tags:
   - wholesome
   - unwholesome
@@ -92,6 +93,6 @@ This all got very repetitive a long time ago, but such is the nature of the sutt
 
 > ‘There is no cause or condition for the defilement of beings; beings are defiled without cause or condition. There is no cause or condition for the purification of beings; beings are purified without cause or condition. There is no power, no energy, no manly strength, no manly endurance. All beings, all living things, all creatures, all souls are without mastery, power, and energy; moulded by destiny, circumstance, and nature, they experience pleasure and pain in the six classes.’
 
-Grim. Such a worldview is precisely what many Westerners are seeking to escape from by coming over to Buddhism - as far as the epistemic status of these claims are concerned, I can confidently say I consider it true that rebirth, kamma, and causality are real.   
+Grim. Such a worldview is precisely what many Westerners are seeking to escape from by coming over to Buddhism - as far as the epistemic status of these claims are concerned, I can confidently say I consider it true that rebirth, kamma, and causality are real. ✅ 
 
 
