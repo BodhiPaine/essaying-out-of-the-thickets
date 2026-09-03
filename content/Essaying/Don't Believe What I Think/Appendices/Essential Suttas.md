@@ -10,7 +10,7 @@ Translated as the [Saddhā Sutta](https://www.dhammatalks.org/suttas/SN/SN48_50.
 | [Sujato](https://suttacentral.net/sn48.50/en/sujato) | At Āpaṇa | The Buddha asks Sāriputta whether a noble disciple doubts the Buddha. Not only does he have faith, replies Sāriputta, but the other faculties each come to be developed in turn. |
 # on Saving the World
 ## AN 10.95, Uttiyasutta ‘With Uttiya’
-[[AN 10.95, Uttiyasutta ‘With Uttiya’]] 
+[[AN 10.95, Uttiya Sutta, ‘With Uttiya’]] 
 # 'Wise Attention, 'Yoniso Manasikara'
 [[07. What the Buddha Taught, and Didn't Teach#Wise Attention, *yoniso manasikara*|on wise attention]]
 # Pascal's Wager
