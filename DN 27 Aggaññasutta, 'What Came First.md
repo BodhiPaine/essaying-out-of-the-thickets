@@ -1,1 +1,3 @@
 DN 27 Aggaññasutta, 'What Came First'
+
+in which Buddha describes the devolution from light beings to beings of matter, which results in chaos but eventually starts to evolve again, by means of social order, property, kingship, and moral regulation - which doesn't actually seem that evolved to me, looking around 👀 Another sutta, [[DN 1 Brahmajāla Sutta, 'The Divine Net'|DN 1]], talks more about how beings devolve from light, and then evolve back into light again.

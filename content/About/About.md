@@ -53,11 +53,11 @@ If that is a genuine Pali word, I can say this garden is an exercise in *saddhā
 
 If I believe that working on my own spiritual development over many lifetimes is possible, and that doing such will support the evolution of consciousness toward increasingly refined, noble, enlightened stages of humanity or whatever we become as we evolve then I may be less pulled toward social work and more confident my #agency resides primarily in developing an increasingly purified, refined mind and heart. 
 
-Belief in a multiverse of ever-evolving consciousness is a choice that feels fictional because it is [[metaphysics|metaphysical]], but such a view might be supported by Sheldrake's morphic-resonance theory, and anyway Buddha taught that we devolved from light beings ([[DN 27 Aggaññasutta, 'What Came First|DN 27]]), ==and are evolving back into light beings==.\[cite]
+Belief in a multiverse of ever-evolving consciousness is a choice that feels fictional because it is [[metaphysics|metaphysical]], but such a view might be supported by Sheldrake's morphic-resonance theory, and anyway Buddha taught that we devolved from light beings ([[DN 27 Aggaññasutta, 'What Came First|DN 27]]), and are evolving back into light beings ([[DN 1 Brahmajāla Sutta, 'The Divine Net'|DN 1]]).[^7]
 
 He also, however, taught that speculating about certain aspects of metaphysics was unproductive at best, and at worst liable to drive one mad. Which I can attest to on both counts. Trying to find the edges of such enquiry has been a necessary part of exploring *saddhā* for me - *What can I know?* and *[[What questions does the dhamma answer?]]* have been burning questions for a while now. How much metaphysical knowledge do I need to practice?, and at which points do I get bogged down in irrelevant metaphysics just because I am fascinated by these questions. Like, what happens to consciousness after we die?, and after an arahant dies? 🤯 Who knows 🤷 One way to find out.[^6]
 
-==So he said that we are evolving into light beings==, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
+So he said that we are evolving into light beings, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
 
 > [!Can Buddhist save the world?]
 > If Buddhism doesn't answer certain metaphysical questions such as about the evolution of consciousness, then can I feel confident the practice will contribute to solving the 'problems' I wish to help with? 
@@ -93,3 +93,5 @@ Digital gardening is a form of non-linear hypertext narrative that I have been w
 [^5]: faith wavers in all practitioners until stream-entry, after which it becomes 'unshakeable'
 
 [^6]: *ekāyano maggo*, meaning "direct path; a path leading toward (only) one destination"
+
+[^7]: It feels glib to just drop this hear, but I don't have the bandwidth to parse this right now. 
