@@ -1,0 +1,7 @@
+When we are struck by a poisoned arrow, we don't need to know who shot it, what the arrow is made from, which angle it came from, etcetera, before we should remove the arrow; when we suffer at all, we don't need to know the minutiae of the causes and effects ~ we only need to know how to introduce the causes for non-suffering into our experience. The causes for non-suffering are the uprooting of the defilements: ignorance, greed and aversion. One way of achieving this is described in the [[SN 12.23 The Upanisa Sutta, 'Proximate Cause'|Upanisa Sutta]].
+# The Ten Unprofitable Questions
+*asking these will not lead to liberation, and may drive you mad*
+
+It looks like these troublesome questions are addressed (and the simile of the poisoned arrow) in [MN 63](https://suttacentral.net/mn63/en/bodhi) The Cūḷamālukya Sutta, 'The Shorter Discourse to Mālunkyāputta'. an important function of understanding this simile is that it reduces my curiosity about irrelevant metaphysics. This means I suppose that I can stamp some of my doubts as 🟠 *inconsequential* or *extraneous*, not relevant to [[07. What the Buddha Taught, and Didn't Teach#Full Awakening, or Liberation from Suffering 🎯|the goal]].
+
+Knowing these questions are irrelevant to the goal helps me to reduce my curiosity about metaphysics,  
