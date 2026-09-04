@@ -66,7 +66,7 @@ So he said that we are evolving into light beings, but advised us to not enquire
 
 I say 'problems' because it may be cultural/conditioned perception (sanna) that there is anything 'wrong' with reality - it may be that accepting reality as it is (without bypassing) is the global solution to the desire that causes suffering, and that treating suffering individually necessarily leads to a society where there is no suffering. It really does become a philosophical quagmire though, and even writing a whole treatise probably wouldn't satisfy me because there is always something else to say one way or the other, resulting in perennial doubt... 
 
-Could it be that my curiosity about [[the potential of the human mind]] is reason enough to pursue this lifestyle? 
+Could it be that my curiosity about [[06. Cultivating Saddhā#Developing the Mind|the potential of the human mind]] is reason enough to pursue this lifestyle? 
 
 And the desire to serve something greater than myself: is this a sign of having [[self-actualised]]; or a manifestation of codependecy? IF it is codependency THEN this supports my move to prioritise self-awakening because codependency never served anyone. IF it is self-actualisation, only good can come from serving the transcendent.
 
