@@ -2,6 +2,7 @@
 | growth      | epistemic status                                                                                                                                |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🌱 seedling | ✅ Sound: I accept that rebirth, kamma, and causality are real; believing otherwise undermines the motivation for wholesome conduct. #no-brainer |
+
 The Buddha describes a way of holding [[07. What the Buddha Taught, and Didn't Teach#Skilful View|skilful view]] that is similar to [[Pascal’s Wager]]. Read [here](https://study.jhana.info/suttas/mn60).
 
 > [!NOTE] The 'safe bet' is assuming belief in rebirth, kamma, and causality 
