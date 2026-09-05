@@ -10,6 +10,7 @@ _investing in mental development, rather than in accumulating wealth, means the 
 - ~~last updated
 	- ~~Can be pulled from GitHub version history?~~
 - [ ] fix duplicate boxes
+	- [ ] have started removing them and styling metadata elsewise
 # driftwood
 - [ ] figure out how to publish notes that branch off the main narrative, but do not show up in the left-hand sidebar: these are the narrative sprawl that readers can get lost on, but which doesn't show up on the map
 # manually order folders and notes
