@@ -1,5 +1,7 @@
 published in *[The Emerging Writer: an Insider’s Guide to Your Writing Journey, Vol 3](https://www.goodreads.com/book/show/14761522-the-emerging-writer)*
 
+%%include a summary%%
+
 > The essence of the liberal outlook lies not in what opinions are held, but in how they are held: instead of being held dogmatically, they are held tentatively, and with a consciousness that new evidence may at any moment lead to their abandonment.
 > 
 >  – Bertrand Russell
