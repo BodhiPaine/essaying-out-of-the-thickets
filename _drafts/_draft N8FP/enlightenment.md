@@ -1,1 +1,1 @@
-the culmination of [[organicity and the N8FP ...|the Path]] 
+the culmination of [[an organic practice|the Path]] 

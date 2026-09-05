@@ -1,4 +1,4 @@
-This is a major [[edge]] for me - an attachment to certain #forms of #practice. I think it will help to lean-in to [[organicity and the N8FP ...|the Noble Eightfold Path]] to support a lifestyle of constant practice that doesn't require certain amount of cushion time or whatever.
+This is a major [[edge]] for me - an attachment to certain #forms of #practice. I think it will help to lean-in to [[an organic practice|the Noble Eightfold Path]] to support a lifestyle of constant practice that doesn't require certain amount of cushion time or whatever.
 
 For whatever reasons (kamma, upbringing, culture, lack of confidence) I have felt a strong need to maintain #discipline in the form of an external practice structure or schedule. My attachment has been leavened somewhat over the years, by learning that I am not the boss of reality, especially when I was co-piloting a small family but generally by the mill of living as a layperson - the household life is cramped and dusty. Even the culture in some monasteries is not conducive to meditation at all, less any formal structure I might imagine I need.
 

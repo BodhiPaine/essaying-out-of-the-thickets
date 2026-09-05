@@ -1,9 +1,7 @@
-... notes toward a practice guide in the form of a collapsable [[digital-garden essay]] developed in Obsidian
+> [!notes...]
+> ... toward a practice guide in the form of a collapsable [[digital-garden essay]] developed in Obsidian
 
-Our practice must be [[organic, spontaneous]] - not attached to forms like schedules and *sadhana*
-
----
-Familiarity with the Noble Eightfold Path helps me to practice wherever I go and whatever is happening. I have been attached at times, to a particular form of practice - a schedule or sadhana - and realised sometime that the Path can be walked everywhere we go. 
+Our practice must be [[organic, spontaneous]] - not attached to forms like schedules and *sadhana*. Familiarity with the Noble Eightfold Path helps me to practice wherever I go and whatever is happening. I have been attached at times, to a particular form of practice - a schedule or sadhana - and have been gradually realising the Path can or must be walked everywhere we go. 
 
 By essaying on the research and application of the Path, I am developing a resource for myself and anyone else interested. The process helps me to refine my understanding of some [[edge]] where I am unsure how to walk the Path - an edge like, *I'm about to walk off into the jungle.* It might end up becoming a repository of inspiring reading and some Reflect(s) or some suttas or commentaries, all of which can be tracked around the site by following links or using [[the navigation tree]]. 
 
