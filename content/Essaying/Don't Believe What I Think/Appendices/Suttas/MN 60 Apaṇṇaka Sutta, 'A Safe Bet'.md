@@ -1,6 +1,4 @@
 
-- [ ] Why hasn't the title updated?
-
 | growth      | epistemic status                                                                                                                                |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🌱 seedling | ✅ Sound: I accept that rebirth, kamma, and causality are real; believing otherwise undermines the motivation for wholesome conduct. #no-brainer |
