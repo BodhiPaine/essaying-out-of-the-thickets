@@ -1,0 +1,1 @@
+We are not setting the unrealistic standard of being mindful in every moment, though it's a nice ideal - each moment we remember to be mindful is worth a little 🎉 👈🏼 *party hat*

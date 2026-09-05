@@ -1,0 +1,1 @@
+cf. Pascal's Wager and 'A Sure Bet'

@@ -1,0 +1,12 @@
+... notes toward a practice guide in the form of a collapsable [[digital-garden essay]] developed in Obsidian
+
+Our practice must be [[organic, spontaneous]] - not attached to forms like schedules and *sadhana*
+
+---
+Familiarity with the Noble Eightfold Path helps me to practice wherever I go and whatever is happening. I have been attached at times, to a particular form of practice - a schedule or sadhana - and realised sometime that the Path can be walked everywhere we go. 
+
+By essaying on the research and application of the Path, I am developing a resource for myself and anyone else interested. The process helps me to refine my understanding of some [[edge]] where I am unsure how to walk the Path - an edge like, *I'm about to walk off into the jungle.* It might end up becoming a repository of inspiring reading and some Reflect(s) or some suttas or commentaries, all of which can be tracked around the site by following links or using [[the navigation tree]]. 
+
+It's a long and arduous road through samsara, with few [[fellow travellers]] and a rather vague ... amorphous and often bewildering map, but a map nonetheless. It does seem to get more clear as I find patterns among the suttas and their application - but an #edge can show up anytime and suddenly you're in the weeds again. 
+
+Being a map, it must be carried while walking, and the best way to carry the Path is by [[memorisation]] and integration through action - the walking. The more we #integrate the Path, the more #embodied our #awareness of it becomes until we *are* the Path, our every action as aligned as we can manage. Hopefully developing this guide supports that integration at least conceptually, but of course a tool is only an object until it is applied in-hand to the job - a hammer could be many things until it hits the nail on the head. 

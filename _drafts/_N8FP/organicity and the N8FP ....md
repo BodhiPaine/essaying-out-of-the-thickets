@@ -1,1 +1,0 @@
-... notes toward a practice guide in the form of a collapsable [[digital-garden essay]] developed in Obsidian
