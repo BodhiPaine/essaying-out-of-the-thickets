@@ -1,0 +1,1 @@
+Question for Claude: Do I need to run the npx? Can't I just push this from GitHub desktop? Or wait, where am I editing these files? 
