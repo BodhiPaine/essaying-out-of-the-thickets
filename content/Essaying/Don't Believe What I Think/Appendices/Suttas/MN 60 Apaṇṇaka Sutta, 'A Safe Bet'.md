@@ -1,23 +1,11 @@
----
-title: MN 60
-epistemic-status: "✅ Sound: I accept that rebirth, kamma, and causality are real; believing otherwise undermines the motivation for wholesome conduct. #no-brainer"
-growth: 🌱 seedling
-tags:
-  - wholesome
-  - unwholesome
-  - conduct
-  - dhamma
-  - adhamma
-  - SkilfulView
-  - "#gradual-training"
-link: https://study.jhana.info/suttas/mn60
-date: 2026-09-03
----
-- [ ] Why hasn't the title updated
 
-| summary                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| the Buddha describes a way of holding [[07. What the Buddha Taught, and Didn't Teach#Skilful View\|skilful view]] that is similar to [[Pascal’s Wager]] |
+- [ ] Why hasn't the title updated?
+
+| growth      | epistemic status                                                                                                                                |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌱 seedling | ✅ Sound: I accept that rebirth, kamma, and causality are real; believing otherwise undermines the motivation for wholesome conduct. #no-brainer |
+The Buddha describes a way of holding [[07. What the Buddha Taught, and Didn't Teach#Skilful View|skilful view]] that is similar to [[Pascal’s Wager]]. Read [here](https://study.jhana.info/suttas/mn60).
+
 > [!NOTE] The 'safe bet' is assuming belief in rebirth, kamma, and causality 
 > It's kind of a no-brainer really: assume that rebirth, kamma, and causality, are real, because such an assumption motivates #wholesome conduct; if they aren't real, then you have still benefited from #wholesome conduct.
 
