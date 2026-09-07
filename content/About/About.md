@@ -55,7 +55,7 @@ If I believe that working on my own spiritual development over many lifetimes is
 
 Belief in a multiverse of ever-evolving consciousness is a choice that feels fictional because it is [[metaphysics|metaphysical]], but such a view might be supported by Sheldrake's morphic-resonance theory, and anyway Buddha taught that we devolved from light beings ([[DN 27 Aggaññasutta, 'What Came First|DN 27]]), and are evolving back into light beings ([[DN 1 Brahmajāla Sutta, 'The Divine Net'|DN 1]]).[^7]
 
-He also, however, taught that speculating about certain aspects of metaphysics was unproductive at best, and at worst liable to drive one mad. Which I can attest to on both counts. Trying to find the edges of such enquiry has been a necessary part of exploring *saddhā* for me - *What can I know?* and *[[What questions does the dhamma answer?]]* have been burning questions for a while now. How much metaphysical knowledge do I need to practice?, and at which points do I get bogged down in irrelevant metaphysics just because I am fascinated by these questions. Like, what happens to consciousness after we die?, and after an arahant dies? 🤯 Who knows 🤷 One way to find out.[^6]
+He also, however, taught that speculating about certain aspects of metaphysics was unproductive at best, and at worst liable to drive one mad. Which I can attest to on both counts. Trying to find the edges of such enquiry has been a necessary part of exploring *saddhā* for me - *What can I know?* and *[[07. What the Buddha Taught, and Didn't Teach|What questions does the dhamma answer?]]* have been burning questions for a while now. How much metaphysical knowledge do I need to practice?, and at which points do I get bogged down in irrelevant metaphysics just because I am fascinated by these questions. Like, what happens to consciousness after we die?, and after an arahant dies? 🤯 Who knows 🤷 One way to find out.[^6]
 
 So he said that we are evolving into light beings, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
 
@@ -71,7 +71,7 @@ Could it be that my curiosity about [[06. Cultivating Saddhā#Developing the Min
 And the desire to serve something greater than myself: is this a sign of having [[self-actualised]]; or a manifestation of codependecy? IF it is codependency THEN this supports my move to prioritise self-awakening because codependency never served anyone. IF it is self-actualisation, only good can come from serving the transcendent.
 
 On 'saving the world', there is a curious sutta ([[AN 10.95, Uttiya Sutta, ‘With Uttiya’|AN 10.95]]) where Ānanda uses the simile of the citadel to illustrate why the Buddha was silent when Uttiya asked whether the dhamma saves the 'whole world, or half, or a third'. 
-- [x] re-read the simile
+
 Ananda explains that we don't need to *save the world*, but to *save ourselves from the world*. I don't really know what to make of this, so it hasn't really put a dent in my belief that I need to be socially engaged for my practice to benefit others. It is one thing to transform my own mind, and of course, we all know that 
 
 > our problems can't be solved with the sort of thinking that caused them,
