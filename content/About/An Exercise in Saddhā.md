@@ -18,7 +18,7 @@ metaphysics was unproductive at best, and at worst liable to drive one mad. Whic
 
 So he said that we are evolving into light beings, but advised us to not enquire about the mechanism of this evolution, or of kamma itself - these being the same mechanism. I am prepared to take this on faith, but still a question that comes up around this: 
 
-> [!twest]
+> [!Can Buddhist save the world?]
 > If Buddhism doesn't answer certain metaphysical questions such as about the evolution of consciousness, then can I feel confident the practice will contribute to solving the 'problems' I wish to help with? 
 
 (Very interesting that I typo'd 'Buddhist' in there when I intended to write 'Buddhism'. It's a classic Freudian slip that I'm going to leave in-line because it makes flagrant that I have this unconscious Atlassian burden in the form of wanting to be a messiah to escape crushing fearlings of insignificance. Of something - more below about this.)
