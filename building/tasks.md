@@ -2,7 +2,8 @@
 
 _investing in mental development, rather than in accumulating wealth, means the chances are I will die poor and happy - whereas pursuing material wealth at the expense of mental development risks dying poor anyway, but unhappy to boot_
 - [ ]  centre this on [[00. Introduction]] ~ instructions in Claude, ‘Obsidian shortcut keys’
-
+# content tree
+- [ ] work out how to order these notes manually - Claude recommended not using a plugin, and has a way of doing this some other way
 # epistemic statuses
 - [x] ask Claude to help me develop frontmatter with categories like 
 ~~- epistemic status
