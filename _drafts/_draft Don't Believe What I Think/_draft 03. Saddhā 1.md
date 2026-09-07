@@ -31,11 +31,7 @@ There is a sutta about ==protecting/maintaining/preserving truth by accepting it
 
 It has been helpful for me to begin considering whether it is conceited to think one needs to *change the world*? There are lots of doom-claims out there and it seems anthropogenic climate change is a real threat that may cause human extinction, but the worldly ways of averting this are not getting very far because we are demanding or expecting change without having first prioritised changing our own mind and heart. Does changing *that* world, the fathom-long world, change [[AN 10.95, Uttiya Sutta, ‘With Uttiya’|the whole world, or a third]]? Shouldn't we get our own house in order, apply the oxygen mask to ourselves? Buddha taught liberation from personal suffering as a means of alleviating collective suffering, by 'supporting the welfare of gods and humans'. 
 
-Meanwhile, the pursuit of #unprofitable-questions creates a 'wilderness of opinions', which I suppose is the same as the #thicket of views. 
-# ~~Knowing the Limitations of What Buddha Taught
-*an exercise in saddha by refining our knowledge of the actual scope of the dhamma*
-
-~~\[text]
+Meanwhile, the pursuit of [[07. What the Buddha Taught, and Didn't Teach#The Ten Unprofitable Questions|unprofitable questions]] creates a 'wilderness of opinions', which I suppose is the same as the [[thicket of views]]. 
 
 [^1]: Thānissaro translates *viriya* as 'persistence', which I prefer to 'energy' ... it is easy to apply effort when one has energy, but the importance is in applying effort even when one doesn't have the energy or motivation: that is persistence.
 
