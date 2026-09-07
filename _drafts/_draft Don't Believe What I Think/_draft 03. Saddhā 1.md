@@ -1,27 +1,5 @@
-Faith in Buddhism is different from what we have come to understand about faith in the context of religion - looking at the word *saddhā* helps to clear this up, and and to see how confidence and conviction have a central place in Buddhist practice from [[the Five Hindrances|the five hindrances]] through the [[04. The Five Faculties|five faculties]] and all the way to [[Dependent Liberation|dependent liberation]]. 
 
-Without faith we wouldn't have the motivation to strive - we would have no reason to apply effort or persist[^1] in the practice.
-# Types of *Saddhā*
-*kamma-phala-saddhā*, f., belief in (the existence of) the effect of kamma[^3]
-_ratanattāya-saddha_, ‘faith in the Triple Gem'
 
-The various types of faith are generally covered in [[dhammanusati]], etc.
-## Belief in Karma
-==\[citation]==%%came from NotebookLM%% says:
-
-> The specific compound *kammaphala-saddhā* (faith in the fruit of action) is not found in the actual sutta texts. Instead, it is a technical term used in the Pāli #commentaries (_aṭṭhakathā_) to categorise types of faith.
-
-The term _ratanattāya-saddha_ for ‘faith in the Triple Gem’ is also commentarial according to ==\[citation]==: "The use of compounds like _ratanattāya-saddhā_ and _kammaphala-saddhā_ reflects the "complex exegetical method" that evolved within the Theravāda school.
-
-MN140 from SBS Obsidian (DeepSeek Pali):
-
-> Yo sīlavā dussīlesu dadāti dānaṃ,Dhammena laddhaṃ supasannacitto; Abhisaddahaṃ kammaphalaṃ uḷāraṃ,Sā dakkhiṇā dāyakato visujjhati.
-
-> Whoever is virtuous, gives a gift to the immoral, a gift obtained righteously, with a serene mind, firmly believing in the eminent result of kamma—that gift is purified by the giver.
-
- So I guess *abhisaddahaṃ kammaphalaṃ* is "firmly believing in the eminent result of kamma", or the commentarial, *kamma-phala-saddhā*.
-
-Or *Abhi·saddahaṁ kamma·phalaṁ uḷ·āraṁ* in MN 142, translated as 'Having full confidence that the result of kamma is abundant' (Bodhi) and 'trusting in the ample fruit of deeds' (Sujato).
 # Protecting the Truth
 There is a sutta about ==protecting/maintaining/preserving truth by accepting it on faith==. But claiming this to be 'the only truth, and everything else false' merely creates a 'fetter', %%such as the ariyas abandon?, this clinging to wrong view%%
 - [ ] 👆🏼 find sutta
@@ -35,8 +13,4 @@ It has been helpful for me to begin considering whether it is conceited to think
 
 Meanwhile, the pursuit of [[07. What the Buddha Taught, and Didn't Teach#The Ten Unprofitable Questions|unprofitable questions]] creates a 'wilderness of opinions', which I suppose is the same as the [[thicket of views]]. 
 
-[^1]: Thānissaro translates *viriya* as 'persistence', which I prefer to 'energy' ... it is easy to apply effort when one has energy, but the importance is in applying effort even when one doesn't have the energy or motivation: that is persistence.
-
 [^2]: A source of doubt that can creep in easily if one is not clear on how getting one's own house in order first is always the priority, the way of supporting the welfare of gods and humans. 
-
-[^3]: Critical Pāli Dictionary
