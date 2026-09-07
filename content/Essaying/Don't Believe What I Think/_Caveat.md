@@ -4,7 +4,6 @@ I am certainly not making any truth claims here about Buddhism or anything else 
 # Status Symbols
 I love these ;) Here is a list of metadata I am using in the garden to see if I can track how confident I feel about certain teachings or my understanding of them. 
 
-
 | growth        | epistemic status   |
 | ------------- | ------------------ |
 | seed          | 🟠 unsure          |
