@@ -4,6 +4,8 @@ Without faith we wouldn't have the motivation to strive - we would have no reaso
 # Types of *Saddhā*
 *kamma-phala-saddhā*, f., belief in (the existence of) the effect of kamma[^3]
 _ratanattāya-saddha_, ‘faith in the Triple Gem'
+
+The various types of faith are generally covered in [[dhammanusati]], etc.
 ## Belief in Karma
 ==\[citation]==%%came from NotebookLM%% says:
 

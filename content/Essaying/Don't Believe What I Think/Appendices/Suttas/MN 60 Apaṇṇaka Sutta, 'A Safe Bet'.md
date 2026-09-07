@@ -8,7 +8,7 @@ The Buddha describes a way of holding [[07. What the Buddha Taught, and Didn't T
 > [!NOTE] The 'safe bet' is assuming belief in rebirth, kamma, and causality 
 > It's kind of a no-brainer really: assume that rebirth, kamma, and causality, are real, because such an assumption motivates #wholesome conduct; if they aren't real, then you have still benefited from #wholesome conduct.
 
-In this sutta, the Buddha is talking to brahmin householders who are bewildered by the number and variety of #metaphysical truth claims made by teachers in whom they don't have *saddhā*, 'faith supported by reasons'. Upon hearing this, the Buddha proposes a form of reasoning that doesn't depend on understanding whether those claims are true or false. 
+In this sutta, the Buddha is talking to brahmin householders who are bewildered by the number and variety of [[metaphysical]] truth claims made by teachers in whom they don't have *saddhā*, 'faith supported by reasons'. Upon hearing this, the Buddha proposes a form of reasoning that doesn't depend on understanding whether those claims are true or false. 
 
 It may still be helpful to know what those claims are, even if I can't quite understand the language of the sutta (from Bodhi's translation):
 
@@ -57,7 +57,9 @@ Without reproducing the whole opposing passage, I will try to summarise:
 
 So, if there *is* another world, a person who was #wholesome in this lifetime will experience fortunate rebirth. But even IF there *isn't* another world, a person who was #wholesome still benefits in this lifetime. In this case, a wholesome person benefits twice, or has 'made a lucky throw on both counts' to use the gambling metaphor.
 # Kamma
-The logic established, the Buddha then takes a gruesome turn to illustrate another unskilful view that seemed to plague practitioners at the time: a person might go around slaughtering people and plundering villages, as if 'with a razor-rimmed wheel, one were to make the living beings on this earth into one mass of flesh, into one heap of flesh' and suffer no consequences; they might, on the other hand, shower the north bank of the Ganges with gifts and offerings, but still with no consequences. I guess he is refuting a denial of kamma that was present among certain 'brahmins and ascetics', who believed that 'by giving, by taming oneself, by restraint, by speaking truth, there is no merit and no outcome of merit'.
+The logic established, the Buddha then takes a gruesome turn to illustrate another unskilful view that seemed to plague practitioners at the time: a person might go around slaughtering people and plundering villages, as if 'with a razor-rimmed wheel, one were to make the living beings on this earth into one mass of flesh, into one heap of flesh' and suffer no consequences; they might, on the other hand, shower the north bank of the Ganges with gifts and offerings, but still with no consequences. 
+
+I guess he is refuting a denial of kamma that was present among certain 'brahmins and ascetics', who believed that 'by giving, by taming oneself, by restraint, by speaking truth, there is no merit and no outcome of merit'.
 
 He presents the flipside again, saying there are those who believe in actions having consequences.
 
