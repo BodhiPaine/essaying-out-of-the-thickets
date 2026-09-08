@@ -1,0 +1,1 @@
+In which it is mentioned that extinguishment is possible in this lifetime, and is known as the ending of [[07. What the Buddha Taught, and Didn't Teach#The Three Poisons|greed, hatred, and delusion]]. 
