@@ -4,6 +4,7 @@ _investing in mental development, rather than in accumulating wealth, means the 
 - [ ]  centre this on [[00. Introduction]] ~ instructions in Claude, ‘Obsidian shortcut keys’
 # tags & links
 - [ ] fix problem occurring based on depth
+https://github.com/quartz-community/obsidian-flavored-markdown/issues/7
 # content tree
 - [ ] work out how to order these notes manually - Claude recommended not using a plugin, and has a way of doing this some other way
 # epistemic statuses
