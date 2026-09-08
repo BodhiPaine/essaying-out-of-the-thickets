@@ -7,6 +7,8 @@ Metaphysics (and philosophy) are apparently dead according to some scientists be
 Is there a case for an [[#eternalism|essential soul]] or aspect of our being that is unchanging? #eternalism
 
 Is there a case for the idea that [[#annihilationism|the 'soul' ends with death]]? #annihilationism
+# The Way between Two Extremes
+Buddha taught a way between the two extremes of [[#eternalism]] and [[#annihilationism]], as for example in [[SN 12.15]]
 # eternalism
 
 # annihilationism
