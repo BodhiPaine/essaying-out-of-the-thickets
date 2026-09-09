@@ -11,14 +11,14 @@ https://github.com/quartz-community/obsidian-flavored-markdown/issues/7
 - [ ] fix duplicate boxes
 	- [ ] have started removing them and styling metadata elsewise
 # driftwood
-- [ ] figure out how to publish notes that branch off the main narrative, but do not show up in the left-hand sidebar: these are the narrative sprawl that readers can get lost on, but which doesn't show up on the map
+- [x] figure out how to publish notes that branch off the main narrative, but do not show up in the left-hand sidebar: these are the narrative sprawl that readers can get lost on, but which doesn't show up on the map
+- [ ] chip away at the driftwood
 # manually order folders and notes
 - [ ] work out how to order notes manually - Claude recommended not using a plugin, and has a way of doing this some other way
+- [ ] come back fresh
 # browser tab
 - [ ] change the icon that comes up in my Thickets tabs, currently the Quartz icon
-
 # content
 fill in
-- [ ] MN 18
-- [ ] MN 19
-[[07. What the Buddha Taught, and Didn't Teach#The Thought Trilogy|the Thought Trilogy]]
+- [x] MN 18
+- [x] MN 19
