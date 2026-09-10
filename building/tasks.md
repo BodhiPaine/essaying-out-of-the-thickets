@@ -19,6 +19,11 @@ https://github.com/quartz-community/obsidian-flavored-markdown/issues/7
 # browser tab
 - [ ] change the icon that comes up in my Thickets tabs, currently the Quartz icon
 # content
+## Introduction
+[[00. Introduction]]
+
+- [ ] create a how-to-read section or note
+
 fill in
 - [x] MN 18
 - [x] MN 19

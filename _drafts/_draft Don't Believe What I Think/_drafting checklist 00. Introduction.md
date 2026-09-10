@@ -1,0 +1,3 @@
+- [ ] does the note adhere to a form - is it complete? 
+- [ ] if it is related to the following note, are there some linking words? 
+- [ ] is the word count reasonable - or does the note need to be split?
