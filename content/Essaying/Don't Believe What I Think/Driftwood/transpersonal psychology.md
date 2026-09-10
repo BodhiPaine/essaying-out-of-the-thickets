@@ -1,0 +1,1 @@
+The discipline of psychology that takes into account the whole person, including their spiritual being. 
