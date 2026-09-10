@@ -8,4 +8,4 @@ Digital gardening is a form of non-linear hypertext narrative that I have been w
 # How to Find Your Way through the Garden
 One place to begin is with the essay that motivated me to develop the site, [[00. Introduction|Don't Believe What I Think]], which is an exploration of faith in Buddhism. 
 
-That link will take you to the Introduction of the essay, and on your left there is a content tree featuring other central branches, including finished essays I will upload over time. 
+That link will take you to the Introduction of the essay, and on your left there is a content tree featuring other central branches, including [[Essayed Essays|finished essays]] I will upload over time. 
