@@ -1,1 +1,5 @@
+---
+title: ontology
+unlisted: true
+---
 a branch of [[metaphysics]] that focuses on the philosophical study of #being and the general features of #reality 

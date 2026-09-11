@@ -1,3 +1,8 @@
+---
+title: a well-developed mind
+unlisted: true
+---
+
 A well-developed mind does not hold  fixed views, as exemplified by this favourite quote - from Bertrand Russell: 
 
 > The essence of the Liberal outlook lies not in what opinions are held, but in how they are held: instead of being held dogmatically, they are held tentatively, and with a consciousness that new evidence may at any moment lead to their abandonment. 

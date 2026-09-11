@@ -1,3 +1,8 @@
+---
+title: a guide to becoming a disciple of the Buddha
+unlisted: true
+---
+
 Me being your guide in this sense is like if we met one of my friends at the park: all I could do is introduce you, and then the conversation is up to you. And it *is* a conversation that we need to have with the Buddha (through the dhamma, with support from the sangha), in the sense we need to ask questions and seek elaboration on points we don't yet understand.
 
 We've all met someone who doesn't do this ~ they either talk about themselves the whole time, or they drift off like they're planning to be anywhere else. Don't be that person. 
