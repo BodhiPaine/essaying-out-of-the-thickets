@@ -1,3 +1,4 @@
+A growing note about various discourses that have been central to my understanding and practice. 
 # Dependent Liberation
 ## SN 12.23 The Upanisa Sutta, 'Proximate Cause'
 In the [[SN 12.23 The Upanisa Sutta, 'Proximate Cause'|Upanisa Sutta]], about which Bhikkhu Bodhi wrote [['Transcendental Dependent Arising'|a brilliant essay]] called 'Transcendental Dependent Arising', the Buddha presents a classic formula of dependent arising (or dependent origination) as a chain of causality for suffering ~ followed by a less-known formula of *transcendental* dependent arising (or [[08. Dependent Liberation|dependent liberation]]), which is *a set of instructions* for *how to transcend suffering*. #dependent-liberation

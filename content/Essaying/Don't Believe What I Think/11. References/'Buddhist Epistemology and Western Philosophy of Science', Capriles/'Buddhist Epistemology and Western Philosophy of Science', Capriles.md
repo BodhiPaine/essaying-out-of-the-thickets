@@ -19,6 +19,8 @@ Th latter is working within a much larger context, so that cultivating the cause
 Continuing with regard to science being incapable of finding truth, and to help with leavening attachment to scientific worldviews we hadn't previously questioned, Capriles refers to Paul K. Feyerabend saying 'the belief science discovers truths has been demystified to such a degree' that 'Western reason and science on the same plane as magic and sorcery'.
 
 I value this paper if only because it makes clear the goal of modernity was to eradicate the unpleasant, which has resulted in a nightmarishly kitsch existence, completely at odds with improving our relationship to suffering. 
+# 13, post-Enlightenment rationalism
+What he has Ramanan saying about the tendency to neglect aspects of reality that don't serve our interests may explain part of why the Western worldview today is so limited: \[9.39] we have become blind to the sacred/numinous/transcendent because we came to think the literal/rational/material was all we needed; thankfully, many of us now know this is untrue ~ that our [[transpersonal psychology|needs include the spiritual]], etc. ~ and I am confident our culture is moving away from post-Enlightenment reductivist delusion toward a more-holistic view again. ✅
 
 %%leave these as rough notes for now%%
 
