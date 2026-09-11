@@ -1,5 +1,5 @@
 > [!notes...]
-> ... toward a practice guide for cultivation of the Path, in the form of a collapsable [[About Digital Gardening?|digital-garden essay]]
+> ... toward a practice guide for cultivation of the Path, in the form of a collapsable [[About Digital Gardening|digital-garden essay]]
 
 Our practice must be [[organic, spontaneous]] - not attached to forms like schedules and *sadhana*. Familiarity with the Noble Eightfold Path helps me to practice wherever I go and whatever is happening. I have been attached at times, to a particular form of practice - a schedule or sadhana - and have been gradually realising the Path can or must be walked everywhere we go. 
 
