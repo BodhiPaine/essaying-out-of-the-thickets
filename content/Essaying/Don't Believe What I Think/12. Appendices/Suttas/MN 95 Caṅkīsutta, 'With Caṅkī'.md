@@ -1,5 +1,7 @@
 A brahmin called Caṅkī makes the case for why he should see the ascetic Gotama, rather than wait for Gotama to visit him - for one thing, he is a guest at their property. Among the other reasons are some good considerations for *[[06. Cultivating Saddhā#The Nine Qualities of the Buddha|buddhānusati]]*, such as that the Buddha went forth while young, in the prime of his life, and as such is an exemplary model of #renunciation .
 
+Kapathika/Bharadvaja asks the Buddha what he thinks of the brahmanic teachings, and the Buddha walks him through understanding that the brahmins did not teach from direct experience of knowing and seeing the truth. 
+
 It is said that five things
 
 - faith, 

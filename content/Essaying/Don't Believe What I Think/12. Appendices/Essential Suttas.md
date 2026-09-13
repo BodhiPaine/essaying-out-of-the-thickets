@@ -28,5 +28,6 @@ Popularly known as the Kalama Sutta, this sutta is essential reading for [[00. I
 
 Read more [[AN 3.65 Kesamutti Sutta, 'To the Kālāmas'|here]].
 ## Canki Sutta
+In the [[MN 95 Caṅkīsutta, 'With Caṅkī'|Caṅkī Sutta]], Kapathika/Bharadvaja asks the Buddha what he thinks of the brahmanic teachings, and the Buddha walks him through understanding that the brahmins did not teach from direct experience of knowing and seeing the truth. 
 
 [^1]: stream-entry?
