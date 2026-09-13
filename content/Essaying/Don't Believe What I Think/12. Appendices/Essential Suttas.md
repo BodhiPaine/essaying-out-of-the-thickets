@@ -17,3 +17,16 @@ Translated as the [Saddhā Sutta](https://www.dhammatalks.org/suttas/SN/SN48_50.
 # Pascal's Wager
 ## MN 60 Apaṇṇaka Sutta, 'A Safe Bet'
 In [[MN 60 Apaṇṇaka Sutta, 'A Safe Bet'|MN 60]], the Buddha claims, very explicitly, "Since there actually is another world, one who holds the view ‘there is no other world’ has wrong view." In lieu of having our own direct experience of this metaphysical truth claim, it is advised in MN 60 that a wise or skilful person would *assume* it to be true, just in case - if it isn't true and there is actually no other world, then at least one's #wholesome motivation yields the fruit of happiness and welfare in this lifetime. Such an argument seems to be essentially consistent with [[Pascal’s Wager]]. I find these grounds to be sufficient for choosing to believe in rebirth, so this aspect, at least, of skilful view, gets a green stamp for epistemic status. 
+# Discerning Dhamma from Adhamma
+## AN 3.65 Kesamutti Sutta, 'To the Kālāmas'
+A teaching should be taken as dhamma if it promotes conduct that is 
+
+> wholesome, blameless, censured by the wise, and
+> conducive to happiness and welfare.
+
+Popularly known as the Kalama Sutta, this sutta is essential reading for [[00. Introduction|Don't Believe What I Think]] and an understanding of *saddhā* because it helps us discern [[07.01. What is Dhamma, and aDhamma?|what is the dhamma]], but it also inspires me because it shows the Buddha trusted our #discernment - even pushes us into discernment because the only recourse remaining in the sutta is to put any teaching to the test. It also helps use discern which [[01. The Nature of Doubt#Is Buddhism Holistic?|complementary practices]] are [[07.01. What is Dhamma, and aDhamma?|dhamma aligned]]: we don't take Byron Katie's work as dhamma-aligned because of her charisma; we test the Work and see if it reduces suffering. 
+
+Read more [[AN 3.65 Kesamutti Sutta, 'To the Kālāmas'|here]].
+## Canki Sutta
+
+[^1]: stream-entry?
