@@ -25,9 +25,18 @@ Or a view is not held on faith, but is
 
 > factual, true, and not otherwise
 
-For this reason, no wise person who wishes to ==preserve the truth== would 'come to the definite conclusion: "Only this is true, anything else is wrong."'
+For this reason, no wise person who wishes to [[#Preserving the Truth|preserve the truth]] would 'come to the definite conclusion: "Only this is true, anything else is wrong."' They trust their view is correct, holding it lightly with confidence, and applying it until new information emerges.
+# Preserving the Truth
+In this way, one protects truth even if they haven't seen it directly, but the sutta goes on to say how we do that: we [[#Awakening to the Truth|awaken to the truth]] by finding a teacher who is free of greed, hatred, and delusion, and we put our faith in them after due process.
+# Awakening to the Truth
+By finding a teacher who is free of greed, hatred, and delusion, and by putting our faith in them, we trigger a cascade moving through what seems like stream-entry, and ending in [[#Final Arrival at the Truth|full awakening]] - after finding a trustworthy teacher, we visit them, pay respects, listen, hear, remember, and examine the meaning of the dhamma, we gain reflective acceptance of the dhamma, giving rise to aspiration, will, deliberation, and striving. 
 
-One who does have faith, though, by holding the view lightly with confidence, they protect the truth even if they haven't seen it directly, but the sutta goes on to say how we do that: we pursue awakening by finding a teacher who is free of greed, hatred, and delusion, and we put our faith in them %%after due process%%
+> Resolutely striving, he realises with the body the highest truth and personally experiences it by completely penetrating it with wisdom.
+# Final Arrival at the Truth
+Through and frequent cultivation of that same dhamma, one experiences final arrival at the truth. 
+
+Striving is most helpful in arriving at the truth. 
+
 
 ---
 In the Canki Sutta we have something of a sequel to the [[AN 3.65 Kesamutti Sutta, 'To the Kālāmas'|Kālāma Suta]], and as such they might be considered like the [[07.04. The Thought Trilogy|Thought Trilogy]] as a kind of duet. 
