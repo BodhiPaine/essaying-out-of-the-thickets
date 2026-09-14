@@ -1,0 +1,1 @@
+In which the [[06. Cultivating Saddhā#Contemplation of the Triple Gem|sangha are praised]] by the Buddha, and it is said that awakening in this lifetime is possible. 
