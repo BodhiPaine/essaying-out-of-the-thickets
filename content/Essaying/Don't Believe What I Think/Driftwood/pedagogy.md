@@ -1,1 +1,0 @@
-The theory and practice of teaching and learning. Use case %%How to set an anchor to a certain piece of text (not a heading), and then remember it is linked from here so I don't edit the meaning there and break the chain of thinking?%%  from [[About]]: Siddhartha Gotama was the peripatetic pedagogue *par excellence* 

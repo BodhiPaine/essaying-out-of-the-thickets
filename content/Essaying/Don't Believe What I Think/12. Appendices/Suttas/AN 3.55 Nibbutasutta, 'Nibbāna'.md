@@ -1,2 +1,2 @@
-In which it is mentioned that extinguishment is possible in this lifetime,%%cit this in [[07.03. Full Awakening, or Liberation from Suffering 🎯]]%% and is known as the ending of greed, hatred, and delusion. 
+In which it is mentioned that extinguishment is possible in this lifetime, and is known as the ending of greed, hatred, and delusion. 
 

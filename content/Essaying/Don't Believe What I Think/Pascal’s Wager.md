@@ -1,9 +1,13 @@
+---
+title: Pascal's Wager
+unlisted: true
+---
 Pascal's Wager is an argument proposed by Blaise Pascal that could be paraphrased:
 
 > One may as well believe in God because 
 > IF He does exist, 
 > THEN their upstanding life results in eternal bliss, and 
-> IF he doesn't 
+> IF He doesn't 
 > THEN at least their life was wholesome. 
 
 If one doesn't believe God there is no incentive for morality because the bad consequences will eventually end with our death - there being no afterlife.
