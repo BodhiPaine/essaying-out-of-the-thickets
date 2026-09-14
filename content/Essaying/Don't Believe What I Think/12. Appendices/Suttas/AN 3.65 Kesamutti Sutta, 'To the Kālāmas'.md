@@ -8,7 +8,7 @@ In [AN 3.65](https://study.jhana.info/suttas/an3.65), the Buddha advises a confu
 - by the [[#9. A Teacher's Competence|apparent competence]] (or charisma) of the teacher
 - by the [[#10. The Speaker is your Guru|teacher's position as your guru]]
 
-The requirement for taking a teaching as *dhamma*, not *adhamma*, is that the teaching reduces suffering through the abandonment of greed, hatred, and delusion. 
+The requirement for taking a teaching as *dhamma*, not *adhamma*, is that the teaching reduces suffering through the abandonment of greed, hatred, and delusion. So the measure of a teaching is how it improves our conduct. 
 # The Divine Abodes & Four Assurances
 The sutta goes in, in a typically tangential fashion, to say that one who knows such conduct goes on as a 'noble disciple' to cultivate the Four Divine Abodes, and then presents a very lucid expression of [[Pascal's Wager]], which I am happy to find again because it buoys my faith to have this parallel Wager, and in what seems like a more concise form. By cleansing one's mind of ill will in this way, a practitioner gains 'four assurances':
 
