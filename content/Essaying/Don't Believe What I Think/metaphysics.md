@@ -12,7 +12,7 @@ Is there a case for an [[#eternalism|essential soul]] or aspect of our being tha
 
 Is there a case for the idea that [[#annihilationism|the 'soul' ends with death]]? #annihilationism
 # The Way between Two Extremes
-Buddha taught a way between the two extremes of [[#eternalism]] and [[#annihilationism]], as for example in [[SN 12.15]]
+Buddha taught a way between the two extremes of [[#eternalism]] and [[#annihilationism]], as for example in [[SN 12.15 Kaccānagotta Sutta, 'To Kaccāna Gotta']]
 # eternalism
 
 # annihilationism
