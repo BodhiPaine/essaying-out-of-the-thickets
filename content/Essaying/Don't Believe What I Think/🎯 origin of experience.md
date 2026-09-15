@@ -8,6 +8,6 @@ Combining Frankl's [[06. Cultivating Saddhā#Viktor Frankl's 'Space Between'|ide
 
 Such an insight may remain buried here until I know where to put it. 
 
-At least, I can say with confidence that *[[07. What the Buddha Taught, and Didn't Teach#Wise Attention, yoniso manasikara|yoniso manasikara]]* necessarily ranks at the top of Buddha's [[Essential Suttas|essential teachings]].
+At least, I can say with confidence that *[[07.07. 'Wise Attention', Yoniso Manasikara|yoniso manasikara]]* necessarily ranks at the top of Buddha's [[Essential Suttas|essential teachings]].
 
 ==- [ ] find a sutta about yoniso manasikara==
