@@ -1,0 +1,1 @@
+The feeling of relief is associated with finding something one feels they can put faith in. 

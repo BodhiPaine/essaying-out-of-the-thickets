@@ -26,6 +26,8 @@ list of surfaced doubts - to be checked against the contents
 - the potential for developing the mind
 - treating my training as an apprenticeship or university degree
 - the ripple effect
+
+- [ ] review other reasons for faith, and it might lead to a segue into the concluding para %%transition%%
 ## 00.04. Disillusionment
 [[00.04. Disillusionment]]
 
