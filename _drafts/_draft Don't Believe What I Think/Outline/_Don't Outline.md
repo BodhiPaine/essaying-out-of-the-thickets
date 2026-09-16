@@ -62,10 +62,14 @@ Buddha didn’t encourage us to just appraise the claims conceptually, but said 
 [[06. Cultivating Saddhā]]
 
 # 07. What the Buddha Taught,  Didn't Teach
+🌱 seedling, good-enough 
 - [x] mostly split into separate notes
-- [ ] the intros to what he Taught and Didn't Teach need surveys of the notes that follow
-- [ ] 
-[[07. What the Buddha Taught]]
+👈🏼 [[07. What the Buddha Taught]] 👉🏻
+## 07.01. What is Dhamma, and aDhamma? 
+👈🏼 [[07.01. What is Dhamma, and aDhamma?]] 👉🏻
+## 07.02. Can Dhamma Save the World?
+[[07.02. Can Dhamma Save the World?]]
+
 # 08. What the Buddha Didn't Teach
 [[08.01. Psychotherapy]]
 [[08.02. Metaphysics]]
