@@ -42,7 +42,6 @@ Ordered so that cheap, site-wide fixes come before per-chapter writing work.
       `about#about-dont-believe-what-i-think` — neither heading exists on About.
 - [ ] About links to `don't-believe-what-i-think/an-avuncular-reading-list`; the page
       actually lives under `appendices/`.
-
 ### Build and config
 - [ ] **Stale About page.** Header shows "Quartz 5" not the site title; page reports
       "0 items under this folder" while `about/an-exercise-in-saddhā` exists.
