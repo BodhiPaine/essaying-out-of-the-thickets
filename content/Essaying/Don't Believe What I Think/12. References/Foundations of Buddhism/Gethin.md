@@ -21,7 +21,7 @@ Spiro said
 
 The [[05. Tripping Over Worldviews#Psychological and Literal Interpretations of Cosmology|psychological vs. literal]] interpretation of Buddhist #cosmology, which is 'old and to be regarded as intrinsic to the system', not mere apologetics of Buddhist Modernism 'to render a primitive, pre-modern understanding of the world palatable to contemporary tastes'. 
 
-This relates to [[07. What the Buddha Taught, and Didn't Teach#^Harris-nature-of-reality|metaphysics]] because there can be "different conceptions of the nature of "reality"', #reality being as #subjective as it is #objective, allowing both a 'psychological and symbolic interpretation to coexist with a literal interpretation'.
+This relates to [[07. What the Buddha Taught#^Harris-nature-of-reality|metaphysics]] because there can be "different conceptions of the nature of "reality"', #reality being as #subjective as it is #objective, allowing both a 'psychological and symbolic interpretation to coexist with a literal interpretation'.
 # 165, faith in dependent liberation
 'The role of faith'
 

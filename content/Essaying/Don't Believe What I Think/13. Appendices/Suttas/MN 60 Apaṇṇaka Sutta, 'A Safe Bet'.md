@@ -3,7 +3,7 @@
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🌱 seedling | ✅ Sound: I accept that rebirth, kamma, and causality are real; believing otherwise undermines the motivation for wholesome conduct. #no-brainer |
 
-The Buddha describes a way of holding [[07. What the Buddha Taught, and Didn't Teach#Skilful View|skilful view]] that is similar to [[Pascal’s Wager]]. Read [here](https://study.jhana.info/suttas/mn60).
+The Buddha describes a way of holding [[07. What the Buddha Taught#Skilful View|skilful view]] that is similar to [[Pascal’s Wager]]. Read [here](https://study.jhana.info/suttas/mn60).
 
 > [!NOTE] The 'safe bet' is assuming belief in rebirth, kamma, and causality 
 > It's kind of a no-brainer really: assume that rebirth, kamma, and causality, are real, because such an assumption motivates #wholesome conduct; if they aren't real, then you have still benefited from #wholesome conduct.
@@ -29,7 +29,7 @@ The Buddha then claims, very explicitly,
 
 > Since there actually is another world, one who holds the view ‘there is no other world’ has wrong view. 
 # Rebirth
-Such wrong view (*micchādiṭṭhi*) leads to wrong #intention (*micchāsaṅkappo*), and wrong #speech (*micchāvācā*) if one declares that rebirth does not exist, and is in direct contravention of 'those arahants who know the other world'. He goes as far as to say that holding such a view is explicitly 'untrue dhamma' (*asaddhamma*). Considering skilful speech (*sammāvācā*) and skilful intention (*sammāsaṅkappo*) are both aspects of the [[07. What the Buddha Taught, and Didn't Teach#the Eightfold Path|the Eightfold Path]], it makes sense that the opposite of these, along with wrong view, are not *saddhamma*.
+Such wrong view (*micchādiṭṭhi*) leads to wrong #intention (*micchāsaṅkappo*), and wrong #speech (*micchāvācā*) if one declares that rebirth does not exist, and is in direct contravention of 'those arahants who know the other world'. He goes as far as to say that holding such a view is explicitly 'untrue dhamma' (*asaddhamma*). Considering skilful speech (*sammāvācā*) and skilful intention (*sammāsaṅkappo*) are both aspects of the [[07. What the Buddha Taught#the Eightfold Path|the Eightfold Path]], it makes sense that the opposite of these, along with wrong view, are not *saddhamma*.
 
 The Buddha continues to elucidate how holding such wrong views leads a person to praise their own view, and disparage others, which itself results in the corruption of any virtue the person might have accrued. All told, these #unwholesome states (wrong intention, wrong speech, denial of the arahants' direct experience, and the propagation of wrong views with 'self-praise and disparagement of others') arise with unskilful view as their condition. 
 
