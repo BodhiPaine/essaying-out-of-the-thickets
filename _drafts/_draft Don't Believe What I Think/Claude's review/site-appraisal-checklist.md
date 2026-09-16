@@ -5,19 +5,20 @@ Ordered so that cheap, site-wide fixes come before per-chapter writing work.
 # 0. Decide first (five minutes, changes everything downstream)
 - [x] **Journals.** `scrapbook/journals/` is publicly published. Confirm this is deliberate.
 - [ ] **Garden or book?** 06 and 07 are reference architecture (nested headings, sutta indices); 00 and 01 are essays. Decide whether the site declares itself a garden (stubs are fine, statuses everywhere, no apology) or separates finished essay from working notes. You already have Driftwood as the bones of the second option.
-- [ ] **Status vocabulary.** Fix on 3–4 growth terms and 3–4 epistemic terms. Currently in  use: `seed`, `seedling`, `🌱 seedling`, `🫘 seed`, `first draft` / `exploratory`,
-      `confident`, `✅ confident`, `🟠 inconsequential`, plus full paragraphs in the status field.
+- [ ] **Status vocabulary.** Fix on 3–4 growth terms and 3–4 epistemic terms. Currently in  use:
+
+| growth      | epistemic status   |
+| ----------- | ------------------ |
+| 🫘 seed     | ✅ confident        |
+| 🌱 seedling | exploratory        |
+|             | 🟠 inconsequential |
+
 - [ ] Write a short **legend page** defining those terms, and link every status to it.
 # 1. Site-wide mechanics
 ### Broken links
 
 - [ ] **Fix inline-hashtag URLs.** `#faith` in body text renders as
-      `bodhipaine.github.io/tags/faith` — missing the `/essaying-out-of-the-thickets/`
-      base path. Confirmed 404. Affects hundreds of links across 00, 01, 04, 05, 06, 07.
-      Look at `baseUrl` in `quartz.config.ts` and the tag-rendering path.
-      (Tags written as wikilinks, e.g. on About, resolve correctly.)
-- [ ] **Run a link checker** over the built site and work the report. Every item below is
-      one I happened to catch by hand; a checker will find the rest.
+- [ ] **Run a link checker** over the built site and work the report. Every item below isvone I happened to catch by hand; a checker will find the rest.
 - [ ] **Phantom root-level pages.** Confirmed 404 on `metaphysical-materialism`.
       Others seen in the wild — triage each as *write the note* or *repoint the link*:
       `the-five-hindrances`, `the-defilements`, `fear-of-credulity`, `kalama-sutta`,
@@ -94,9 +95,6 @@ Present: page-level on **01** and **07**; section-level at 01 *One-Method Approa
       go public" still holds — it's public now, and the line reads oddly
 
 ### 01. The Nature of Doubt — 20 min, substantial
-- [ ] `%%and%%` — Obsidian comment leaking into rendered output
-- [ ] *Doubt About Rebirth* is `[text]` only
-- [ ] *The Bodhisattva Ideal*, *Is Awakening Possible?*, *Limitations of the Dhamma* — thin
 - [ ] "Soma makes the consoling observation…" — cited by surname only, no reference
 - [ ] Patrick Harpur introduced with 🎯 and no source
 - [ ] *Fear of Credulity* section ends mid-sentence on a comma
@@ -106,13 +104,10 @@ Present: page-level on **01** and **07**; section-level at 01 *One-Method Approa
 - [ ] Note-to-self "stay with it, Bodhi" — keep or cut, deliberately
 
 ### 02. A Brief History of Faith — EMPTY
-- [ ] Write it, or fold it into 03, or cut the number. An empty numbered chapter mid-sequence
-      reads as a broken promise rather than a seedling.
+- [ ] Write it, or fold it into 03, or cut the number. An empty numbered chapter mid-sequence reads as a broken promise rather than a seedling.
 
 ### 03. Saddhā — EMPTY
-- [ ] **Highest priority.** The title chapter of an essay about *saddhā*. Much of the raw
-      material already exists scattered through 00, 04 and 06 — this may be more a job of
-      gathering than of writing.
+- [ ] **Highest priority.** The title chapter of an essay about *saddhā*. Much of the raw material already exists scattered through 00, 04 and 06 — this may be more a job of gathering than of writing.
 
 ### 04. The Five Faculties — 5 min prose, then scaffolding
 - [ ] Add status
