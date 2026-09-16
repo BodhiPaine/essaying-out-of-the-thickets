@@ -68,7 +68,11 @@ Buddha didn’t encourage us to just appraise the claims conceptually, but said 
 ## 07.01. What is Dhamma, and aDhamma? 
 👈🏼 [[07.01. What is Dhamma, and aDhamma?]] 👉🏻
 ## 07.02. Can Dhamma Save the World?
-[[07.02. Can Dhamma Save the World?]]
+👈🏼 [[07.02. Can Dhamma Save the World?]] %%add link%%
+
+%%needs tidying%%
+## 07.03. Full Awakening
+[[07.03. Full Awakening, or Liberation from Suffering 🎯]]
 
 # 08. What the Buddha Didn't Teach
 [[08.01. Psychotherapy]]
