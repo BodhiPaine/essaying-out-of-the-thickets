@@ -1,5 +1,11 @@
 [[00. Introduction]]
-anecdote from Adelaide
+anecdote from Adelaide, about not having faith in faith
+🌿 sapling
+[[00.01. Faith and Effort]]
+needs some development
+[[00.02. Surfacing Doubts]]
+[[00.03. Fallbacks]]
+
 [[01. The Nature of Doubt]]
 [[02. A Brief History of Faith]]
 [[03. Saddhā]]
