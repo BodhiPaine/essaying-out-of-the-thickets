@@ -1,0 +1,1 @@
+- [ ] confirm whether I have lost the RH sidebar

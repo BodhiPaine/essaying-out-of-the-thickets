@@ -1,0 +1,2 @@
+- Don't route Mum's payments thru the campagin because OC will take a cut and the momentum 'nudge' may seem like pressure, according to Claude.
+- Need to mention that payments are not tax-deductible?

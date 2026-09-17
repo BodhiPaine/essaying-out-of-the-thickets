@@ -1,4 +1,8 @@
 A growing note about various discourses that have been central to my understanding and practice. 
+
+When I first started looking directly at the suttas about faith, I found [[SN 48.24 Ekabījī Sutta, ‘One-Seeder’|SN 48.24]], which lists the [[04. The Five Faculties|five faculties]] and then says one ‘who has completed and fulfilled these five faculties is an arahant’, listing the various stages of awakening that one would attain if their faculties were progressively weaker than an arahant. 
+
+The same faculties are also listed as the Five Powers, in [[AN 5.15]], but further detail is given.
 # Dependent Liberation
 ## SN 12.23 The Upanisa Sutta, 'Proximate Cause'
 In the [[SN 12.23 The Upanisa Sutta, 'Proximate Cause'|Upanisa Sutta]], about which Bhikkhu Bodhi wrote [['Transcendental Dependent Arising'|a brilliant essay]] called 'Transcendental Dependent Arising', the Buddha presents a classic formula of dependent arising (or dependent origination) as a chain of causality for suffering ~ followed by a less-known formula of *transcendental* dependent arising (or [[08. Dependent Liberation|dependent liberation]]), which is *a set of instructions* for *how to transcend suffering*. #dependent-liberation

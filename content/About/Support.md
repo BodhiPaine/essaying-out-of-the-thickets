@@ -1,0 +1,1 @@
+I have a Support page because the hosting for this site costs $50/year and I have a campaign running to help with repayments on my student loan. 

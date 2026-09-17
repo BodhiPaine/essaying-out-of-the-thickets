@@ -1,0 +1,2 @@
+- [ ] work out how to order notes manually - Claude recommended not using a plugin, and has a way of doing this some other way
+- [ ] come back fresh
