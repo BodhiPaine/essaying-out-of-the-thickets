@@ -275,6 +275,16 @@ plugins:
     layout:
       position: beforeBody
       priority: 15
+  - source: github:BodhiPaine/crawl-links#fix-tag-link-resolution
+    enabled: true
+    options:
+      markdownLinkResolution: absolute
+      prettyLinks: true
+      openLinksInNewTab: false
+      lazyLoad: false
+      externalLinkIcon: true
+      disableBrokenWikilinks: false
+    order: 60
 layout:
   groups:
     toolbar:

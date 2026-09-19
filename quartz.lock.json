@@ -1,6 +1,13 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "crawl-links": {
+      "source": "github:BodhiPaine/crawl-links#fix-tag-link-resolution",
+      "resolved": "https://github.com/BodhiPaine/crawl-links.git",
+      "commit": "977a0cc01446c265f6117a5882bfde7ca9bafbb1",
+      "ref": "fix-tag-link-resolution",
+      "installedAt": "2026-09-19T09:10:46.478Z"
+    },
     "note-properties": {
       "source": "github:quartz-community/note-properties",
       "resolved": "https://github.com/quartz-community/note-properties.git",
