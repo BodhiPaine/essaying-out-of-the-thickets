@@ -73,11 +73,6 @@ plugins:
     layout:
       position: right
       priority: 30
-  - source: "@quartz-community/crawl-links"
-    enabled: true
-    options:
-      markdownLinkResolution: shortest
-    order: 60
   - source: "@quartz-community/description"
     enabled: true
     order: 70
@@ -278,7 +273,7 @@ plugins:
   - source: github:BodhiPaine/crawl-links#fix-tag-link-resolution
     enabled: true
     options:
-      markdownLinkResolution: absolute
+      markdownLinkResolution: shortest
       prettyLinks: true
       openLinksInNewTab: false
       lazyLoad: false
