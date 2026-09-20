@@ -273,7 +273,7 @@ plugins:
   - source: github:BodhiPaine/crawl-links#fix-tag-link-resolution
     enabled: true
     options:
-      markdownLinkResolution: shortest
+      markdownLinkResolution: absolute
       prettyLinks: true
       openLinksInNewTab: false
       lazyLoad: false
